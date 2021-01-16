@@ -1,0 +1,10 @@
+数据意义：id; start time; end time; movement label; plot label.
+同一个意思的句子,可以 适当 用不同表述(主动,被动,换一些词,或者顺序等)
+动作标签(时间不用连续,选择有意义的即可), 情节标签(百度百科直接翻译,修改下没有语病就行,百度百科不能包括所有情节,没有的情节概括直接用 上下文的情节概括 代替即可)
+一集200条左右, 一集分成四段, 一个sub50条左右
+
+主角名字：Max Caroline Earl Oleg Han Sophie
+用一般现在时和现在进行时
+动词尽量用相同的: carry, walk, talk, open, enter, yell, smile等
+加上几个地点：restaurant(第一集第1分钟前30秒), bar(第一集第6-10分钟), kitchen(第一集第1分钟后30秒), living room(第一集第11-13分钟), bedroom(第一集第14分钟20-40秒), other houses in downtown(根据作用起名称)
+加上一些情感：angrily, excitedly, fiercely, anxiously, disappointed, sad, unhappily, happily, embarrassed, amazed, astonished, thankfully, confused, concernedly等

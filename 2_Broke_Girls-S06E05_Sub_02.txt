@@ -1,0 +1,50 @@
+05_Sub_02 0.0 3.4##Max is coming
+05_Sub_02 0.0 3.4##Max is talking
+05_Sub_02 3.4 9.7##Caroline is talking 
+05_Sub_02 9.7 12.7##Caroline smiles
+05_Sub_02 12.7 17.6##Max is talking
+05_Sub_02 12.7 17.6##Max take a bag
+05_Sub_02 17.6 23.3##Caroline is talking excitedly
+05_Sub_02 23.3 27.7##Max is talking
+05_Sub_02 27.7 29.7##Caroline is  talking
+05_Sub_02 27.7 29.7##Max is feel amazed
+05_Sub_02 29.7 39.8##Max is talking 
+05_Sub_02 29.7 39.8##Max close her eyes
+05_Sub_02 39.8 43.1##Max sit down
+05_Sub_02 43.1 46.2##Caroline is talking
+05_Sub_02 46.2 49.8##Max is talking
+05_Sub_02 49.8 56.8##Max is talking happily
+05_Sub_02 56.8 66.1##Caroline feel amazed
+05_Sub_02 56.8 66.1##Caroline is talking
+05_Sub_02 66.1 76.7##Caroline feel excited
+05_Sub_02 66.1 76.7##Caroline is talking
+05_Sub_02 66.1 76.7##Caroline feel amazed
+05_Sub_02 76.7 79.6##Max is talking
+05_Sub_02 79.6 83.3##Caroline open the door
+05_Sub_02 83.3 86.2##the woman is talking 
+05_Sub_02 83.3 86.2##The woman is coming
+05_Sub_02 86.2 95.8##The woman come in the room
+05_Sub_02 95.8 98.3##Max is talking
+05_Sub_02 98.3 103.5##The woman is talking excitedly
+05_Sub_02 103.5 116.1##Caroline is talking
+05_Sub_02 116.1 121.8##the woman is talking 
+05_Sub_02 121.8 126.4##Max is talking 
+05_Sub_02 121.8 126.4##Caroline feel amazed
+05_Sub_02 126.4 130.8##The woman is talking excitedly
+05_Sub_02 130.8 136.3##The woman go away
+05_Sub_02 136.3 145.9##Caroline is talking
+05_Sub_02 145.9 154.2##Max is talking Caroline smiles 
+05_Sub_02 145.9 154.2##Caroline is talking 
+05_Sub_02 154.2 164.9##The woman open the door 
+05_Sub_02 154.2 164.9##the woman is talking 
+05_Sub_02 154.2 164.9##the woman smile
+05_Sub_02 164.9 172.5##Caroline is talking
+05_Sub_02 172.5 177.1##Caroline smiles
+05_Sub_02 177.1 193.1##Max is talking 
+05_Sub_02 193.1 197.8##The woman is walking
+05_Sub_02 197.8 201.7##The woman go away
+05_Sub_02 201.7 205.8##Max is walking
+05_Sub_02 201.7 205.8##Caroline  is walking
+05_Sub_02 205.8 207.6##Max get into the room
+05_Sub_02 205.8 207.6##Caroline get into the room
+05_Sub_02 207.6 211.3##Max is talking

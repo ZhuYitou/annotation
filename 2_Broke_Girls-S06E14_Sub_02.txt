@@ -1,0 +1,58 @@
+2_Broke_Girls-S06E14_Sub_02 0.0 1.4##Max smiles to Caroline.
+2_Broke_Girls-S06E14_Sub_02 0.0 1.4##Max nods her head.
+2_Broke_Girls-S06E14_Sub_02 1.4 2.3##Caroline turns her head.
+2_Broke_Girls-S06E14_Sub_02 1.4 2.3##Caroline talks to the man.
+2_Broke_Girls-S06E14_Sub_02 2.3 15.9##Caroline says goodbye to the man with a smile on her face.
+2_Broke_Girls-S06E14_Sub_02 15.9 18.4##Max opens her mouth wide.
+2_Broke_Girls-S06E14_Sub_02 15.9 18.4##Max feels surprised.
+2_Broke_Girls-S06E14_Sub_02 18.4 25.2##Max talks to Caroline.
+2_Broke_Girls-S06E14_Sub_02 25.2 28.4##Caroline smiles happily and feels a bit of excited.
+2_Broke_Girls-S06E14_Sub_02 28.4 33.3##Caroline looks over her shoulders.
+2_Broke_Girls-S06E14_Sub_02 33.3 36.2##Sophie is drinking wine with three ladies.
+2_Broke_Girls-S06E14_Sub_02 36.2 40.8##Sophie smiles with wineglass in her hand.
+2_Broke_Girls-S06E14_Sub_02 40.8 45.5##Sophie is talking happily.
+2_Broke_Girls-S06E14_Sub_02 45.5 47.7##Caroline looks at the four woman beside the door.
+2_Broke_Girls-S06E14_Sub_02 45.5 47.7##Caroline talks herself.
+2_Broke_Girls-S06E14_Sub_02 58.8 64.3##Sophie put one hand on her leg.
+2_Broke_Girls-S06E14_Sub_02 64.3 67.5##Sophie is laughing.
+2_Broke_Girls-S06E14_Sub_02 96.5 107.8##Sophie talks herself.
+2_Broke_Girls-S06E14_Sub_02 107.8 112.1##A women open the door.
+2_Broke_Girls-S06E14_Sub_02 112.1 114.0##A woman says hello to everyone.
+2_Broke_Girls-S06E14_Sub_02 114.0 114.8##A woman closes the door.
+2_Broke_Girls-S06E14_Sub_02 114.8 116.3##Sophie is looking at the woman.
+2_Broke_Girls-S06E14_Sub_02 118.4 121.0##A woman walk to Sophie.
+2_Broke_Girls-S06E14_Sub_02 121.0 122.2##A woman sits down.
+2_Broke_Girls-S06E14_Sub_02 122.2 135.2##A woman is talking to Sophie.
+2_Broke_Girls-S06E14_Sub_02 135.2 144.6##Han is running towards Max and Caroline.
+2_Broke_Girls-S06E14_Sub_02 135.2 144.6##Max and Caroline are counting the money.
+2_Broke_Girls-S06E14_Sub_02 144.6 147.3##Han is talking to Caroline and Max .
+2_Broke_Girls-S06E14_Sub_02 147.3 148.7##Han rubs his hands.
+2_Broke_Girls-S06E14_Sub_02 148.7 150.9##Caroline looks back at Han.
+2_Broke_Girls-S06E14_Sub_02 148.7 150.9##Max is talking to Han.
+2_Broke_Girls-S06E14_Sub_02 150.9 167.8##Earl is looking at them.
+2_Broke_Girls-S06E14_Sub_02 170.5 172.5##Han speaks to Earl angrily.
+2_Broke_Girls-S06E14_Sub_02 172.5 175.0##Han walks away.
+2_Broke_Girls-S06E14_Sub_02 175.0 178.5##Caroline talks to Max.
+2_Broke_Girls-S06E14_Sub_02 178.5 200.9##Caroline takes her phone.
+2_Broke_Girls-S06E14_Sub_02 200.9 210.3##Caroline takes off her clothes.
+2_Broke_Girls-S06E14_Sub_02 210.3 211.8##Caroline turns her head and looks at Max.
+2_Broke_Girls-S06E14_Sub_02 211.8 215.5##Max and Caroline smile to each other.
+2_Broke_Girls-S06E14_Sub_02 215.5 217.1##Caroline walks away.
+2_Broke_Girls-S06E14_Sub_02 217.1 219.6##Caroline open the door of bar.
+2_Broke_Girls-S06E14_Sub_02 217.1 219.6##Caroline enter the bar.
+2_Broke_Girls-S06E14_Sub_02 217.1 219.6##Max follows Caroline.
+2_Broke_Girls-S06E14_Sub_02 219.6 221.9##Caroline walks towards the man.
+2_Broke_Girls-S06E14_Sub_02 221.9 226.0##Caroline smiles to the man.
+2_Broke_Girls-S06E14_Sub_02 226.0 230.1##Max talks herself.
+2_Broke_Girls-S06E14_Sub_02 230.1 242.3##Caroline walks to the door.
+2_Broke_Girls-S06E14_Sub_02 242.3 248.8##Max is confused.
+2_Broke_Girls-S06E14_Sub_02 248.8 257.8##Caroline falls.
+2_Broke_Girls-S06E14_Sub_02 248.8 257.8##The man holds Caroline,
+2_Broke_Girls-S06E14_Sub_02 248.8 257.8##Caroline touchs the man's face.
+2_Broke_Girls-S06E14_Sub_02 257.8 272.4##Caroline is talking to the man.
+2_Broke_Girls-S06E14_Sub_02 272.4 276.0##Max runs to Caroline.
+2_Broke_Girls-S06E14_Sub_02 276.0 299.4##Max is talking to Caroline.
+2_Broke_Girls-S06E14_Sub_02 299.4 303.0##Max walks away.
+2_Broke_Girls-S06E14_Sub_02 303.0 308.8##Max opens the door and leaves. 
+2_Broke_Girls-S06E14_Sub_02 308.8 312.7##Max and Caroline open the door.
+2_Broke_Girls-S06E14_Sub_02 308.8 312.7##Max and Caroline enter the room.

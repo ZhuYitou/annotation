@@ -1,0 +1,49 @@
+2_Broke_Girls-S06E21_Sub_01 0.0 7.1##Caroline is speaking happily.
+2_Broke_Girls-S06E21_Sub_01 7.1 16.5##Caroline talks with Max happily.
+2_Broke_Girls-S06E21_Sub_01 16.5 16.8##Max opens the door.
+2_Broke_Girls-S06E21_Sub_01 16.5 16.8##Max enters the room.
+2_Broke_Girls-S06E21_Sub_01 33.1 39.8##Max plays with Caroline.
+2_Broke_Girls-S06E21_Sub_01 39.8 56.1##Max and Caroline fall down.
+2_Broke_Girls-S06E21_Sub_01 74.7 76.8##Sophie opens the door.
+2_Broke_Girls-S06E21_Sub_01 74.7 76.8##Sophie enters the room.
+2_Broke_Girls-S06E21_Sub_01 76.8 79.2##Sophie talks happily.
+2_Broke_Girls-S06E21_Sub_01 79.2 80.9##Baby drives a car.
+2_Broke_Girls-S06E21_Sub_01 80.9 85.7##Max is shocked.
+2_Broke_Girls-S06E21_Sub_01 85.7 86.2##Caroline is shocked.
+2_Broke_Girls-S06E21_Sub_01 86.2 88.5##Caroline talks.
+2_Broke_Girls-S06E21_Sub_01 88.5 95.0##Sophie helps Max.
+2_Broke_Girls-S06E21_Sub_01 95.0 95.3##Sophie helps Caroline.
+2_Broke_Girls-S06E21_Sub_01 99.2 101.0##Max walks away.
+2_Broke_Girls-S06E21_Sub_01 101.0 104.3##Sophie gives Caroline some letters.
+2_Broke_Girls-S06E21_Sub_01 104.3 108.5##Sophie talks with Caroline.
+2_Broke_Girls-S06E21_Sub_01 108.5 116.3##Caroline talks with Sophie unhappily.
+2_Broke_Girls-S06E21_Sub_01 116.3 119.9##Sophie smiles.
+2_Broke_Girls-S06E21_Sub_01 119.9 123.0##Max speaks happily.
+2_Broke_Girls-S06E21_Sub_01 123.0 127.8##Caroline talks to Max excitedly.
+2_Broke_Girls-S06E21_Sub_01 127.8 133.3##Caroline walks to Max.
+2_Broke_Girls-S06E21_Sub_01 139.0 143.5##Sophie speaks unhappily.
+2_Broke_Girls-S06E21_Sub_01 143.5 152.5##Caroline speaks anxiously.
+2_Broke_Girls-S06E21_Sub_01 152.5 158.0##Sophie talks with baby.
+2_Broke_Girls-S06E21_Sub_01 158.0 166.8##Max speaks happily.
+2_Broke_Girls-S06E21_Sub_01 166.8 168.8##Max smiles.
+2_Broke_Girls-S06E21_Sub_01 168.8 175.2##Max is in the restaurant.
+2_Broke_Girls-S06E21_Sub_01 175.2 175.5##Caroline is in the restaurant.
+2_Broke_Girls-S06E21_Sub_01 175.5 178.8##Caroline talks to Han happily.
+2_Broke_Girls-S06E21_Sub_01 178.8 182.1##Han talks to Caroline unhappily.
+2_Broke_Girls-S06E21_Sub_01 182.1 189.6##Han speaks unhappily.
+2_Broke_Girls-S06E21_Sub_01 189.6 196.8##Max speaks.
+2_Broke_Girls-S06E21_Sub_01 196.8 201.9##Han talks to Max angrily.
+2_Broke_Girls-S06E21_Sub_01 208.7 211.2##Caroline is excited.
+2_Broke_Girls-S06E21_Sub_01 211.2 218.7##Caroline speaks excitedly.
+2_Broke_Girls-S06E21_Sub_01 237.5 243.7##Han talks to Caroline happily.
+2_Broke_Girls-S06E21_Sub_01 243.7 253.2##Max talks to Han anxiously.
+2_Broke_Girls-S06E21_Sub_01 253.2 261.6##Han talks to Caroline anxiously.
+2_Broke_Girls-S06E21_Sub_01 261.6 266.2##Max smiles.
+2_Broke_Girls-S06E21_Sub_01 276.0 280.9##Man opens the door.
+2_Broke_Girls-S06E21_Sub_01 276.0 280.9##Man enters the restaurant.
+2_Broke_Girls-S06E21_Sub_01 281.6 287.6##Caroline talks to man excitedly.
+2_Broke_Girls-S06E21_Sub_01 287.6 300.2##Man talks with Caroline.
+2_Broke_Girls-S06E21_Sub_01 300.2 304.3##Caroline hugs man.
+2_Broke_Girls-S06E21_Sub_01 306.6 308.7##Caroline kisses with man.
+2_Broke_Girls-S06E21_Sub_01 308.7 312.0##Max talks.
+2_Broke_Girls-S06E21_Sub_01 312.0 314.7##Sophie talks.

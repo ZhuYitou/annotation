@@ -1,0 +1,57 @@
+2_Broke_Girls-S06E05_Sub_03 0.0 6.5##Caroline is talking with a phone
+2_Broke_Girls-S06E05_Sub_03 6.5 13.9##Caroline take a cigarette
+2_Broke_Girls-S06E05_Sub_03 13.9 22.7##Oleg is talking with phone
+2_Broke_Girls-S06E05_Sub_03 22.7 31.0##Caroline is talking
+2_Broke_Girls-S06E05_Sub_03 31.0 37.2##Max is walking
+2_Broke_Girls-S06E05_Sub_03 31.0 37.2##Max is talking 
+2_Broke_Girls-S06E05_Sub_03 31.0 37.2##Max take two cup of water
+2_Broke_Girls-S06E05_Sub_03 37.2 45.1##Max is talking
+2_Broke_Girls-S06E05_Sub_03 45.1 49.9##Caroline is talking.
+2_Broke_Girls-S06E05_Sub_03 49.9 57.7##Max is talking 
+2_Broke_Girls-S06E05_Sub_03 49.9 57.7##Max is smiles
+2_Broke_Girls-S06E05_Sub_03 57.7 63.3##Caroline is talking excitedly
+2_Broke_Girls-S06E05_Sub_03 63.3 71.9##Max is talking
+2_Broke_Girls-S06E05_Sub_03 63.3 71.9##Max raise her hand
+2_Broke_Girls-S06E05_Sub_03 71.9 77.1##Caroline is talking 
+2_Broke_Girls-S06E05_Sub_03 71.9 77.1##Caroline raise her hand
+2_Broke_Girls-S06E05_Sub_03 77.1 79.5##Caroline is dancing
+2_Broke_Girls-S06E05_Sub_03 79.5 83.9##Max is talking
+2_Broke_Girls-S06E05_Sub_03 79.5 83.9##Max smiles
+2_Broke_Girls-S06E05_Sub_03 83.9 89.8##Caroline is talking 
+2_Broke_Girls-S06E05_Sub_03 83.9 89.8##Caroline is dancing
+2_Broke_Girls-S06E05_Sub_03 89.8 92.3##Max is talking happily
+2_Broke_Girls-S06E05_Sub_03 92.3 100.3##A woman is talking angrily
+2_Broke_Girls-S06E05_Sub_03 100.3 104.1##Caroline is talking 
+2_Broke_Girls-S06E05_Sub_03 100.3 104.1##Caroline hug a man
+2_Broke_Girls-S06E05_Sub_03 104.1 108.5##Caroline kiss a man
+2_Broke_Girls-S06E05_Sub_03 108.5 112.5##The woman is talking sadly
+2_Broke_Girls-S06E05_Sub_03 112.5 116.3##Caroline is talking happily
+2_Broke_Girls-S06E05_Sub_03 116.3 117.8##Caroline kiss the woman
+2_Broke_Girls-S06E05_Sub_03 117.8 119.5##Max smiles
+2_Broke_Girls-S06E05_Sub_03 119.5 124.9##Max feel amazed
+2_Broke_Girls-S06E05_Sub_03 124.9 134.2##caroline is dancing with a man
+2_Broke_Girls-S06E05_Sub_03 134.2 145.5##Max wake up
+2_Broke_Girls-S06E05_Sub_03 134.2 145.5##Max is talking
+2_Broke_Girls-S06E05_Sub_03 145.5 149.1##Caroline wake up
+2_Broke_Girls-S06E05_Sub_03 149.1 152.3##Caroline is talking
+2_Broke_Girls-S06E05_Sub_03 152.3 156.7##Max feel amazed
+2_Broke_Girls-S06E05_Sub_03 152.3 156.7##Max ia talking
+2_Broke_Girls-S06E05_Sub_03 152.3 156.7##Caroline feel amazed
+2_Broke_Girls-S06E05_Sub_03 156.7 160.2##Caroline fall down
+2_Broke_Girls-S06E05_Sub_03 160.2 165.7##Caroline feel amazed
+2_Broke_Girls-S06E05_Sub_03 165.7 168.2##Max is talking
+2_Broke_Girls-S06E05_Sub_03 168.2 177.3##Caroline is talking 
+2_Broke_Girls-S06E05_Sub_03 168.2 177.3##Caroline feel amazed
+2_Broke_Girls-S06E05_Sub_03 177.3 180.5##Max is talking 
+2_Broke_Girls-S06E05_Sub_03 190.3 192.8##Max is talking
+2_Broke_Girls-S06E05_Sub_03 192.8 195.1##\Caroline talk excitedly
+2_Broke_Girls-S06E05_Sub_03 195.1 197.5##Max is talking
+2_Broke_Girls-S06E05_Sub_03 197.5 200.5##Caroline feel angry
+2_Broke_Girls-S06E05_Sub_03 200.5 206.6##Max is walking 
+2_Broke_Girls-S06E05_Sub_03 200.5 206.6##Caroline is walking
+2_Broke_Girls-S06E05_Sub_03 206.6 214.1##Max sit down
+2_Broke_Girls-S06E05_Sub_03 206.6 214.1##Max is talking
+2_Broke_Girls-S06E05_Sub_03 214.1 220.2##Caroline is talking excitedly
+2_Broke_Girls-S06E05_Sub_03 220.2 226.9##Max is talking
+2_Broke_Girls-S06E05_Sub_03 226.9 233.3##Caroline is talking excitedly
+2_Broke_Girls-S06E05_Sub_03 226.9 233.3##Max smiles

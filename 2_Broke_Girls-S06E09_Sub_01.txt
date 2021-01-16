@@ -1,0 +1,49 @@
+2_Broke_Girls-S06E09_Sub_01 0.0 4.6##Caroline and Max put on the bag.
+2_Broke_Girls-S06E09_Sub_01 4.6 9.2##Caroline opened the door and closed it.
+2_Broke_Girls-S06E09_Sub_01 9.2 11.4##Caroline refused a customer.
+2_Broke_Girls-S06E09_Sub_01 11.4 27.0##Max and Caroline talked to each other.
+2_Broke_Girls-S06E09_Sub_01 28.5 32.9##Oleg entered and spoke to Caroline.
+2_Broke_Girls-S06E09_Sub_01 32.9 35.9##Oleg is speaking.
+2_Broke_Girls-S06E09_Sub_01 35.9 46.6##Oleg is speaking and holding the door.
+2_Broke_Girls-S06E09_Sub_01 46.6 50.3##Oleg opened the door and left.
+2_Broke_Girls-S06E09_Sub_01 46.6 50.3##Max closed the door.
+2_Broke_Girls-S06E09_Sub_01 50.3 57.9##Max returned.
+2_Broke_Girls-S06E09_Sub_01 57.9 59.5##Han dashed into the room.
+2_Broke_Girls-S06E09_Sub_01 59.5 64.1##Han is speaking to Oleg, Max, Caroline.
+2_Broke_Girls-S06E09_Sub_01 64.1 67.4##Oleg returned and he is looking something on his hand.
+2_Broke_Girls-S06E09_Sub_01 67.4 74.6##Earl showed them the advertisement.
+2_Broke_Girls-S06E09_Sub_01 74.6 77.9##Caroline is shocked and she asked.
+2_Broke_Girls-S06E09_Sub_01 77.9 79.9##Earl pointed to the ad.
+2_Broke_Girls-S06E09_Sub_01 79.9 87.4## Han, Max, Caroline escaped from Earl.
+2_Broke_Girls-S06E09_Sub_01 87.4 91.0##Earl is puzzled and angry.
+2_Broke_Girls-S06E09_Sub_01 106.3 109.6##Max poured wine into the cup.
+2_Broke_Girls-S06E09_Sub_01 109.6 112.3##Max drank the wine.
+2_Broke_Girls-S06E09_Sub_01 112.3 119.1##Caroline and Max is talking.
+2_Broke_Girls-S06E09_Sub_01 119.1 126.5##Oleg showed up on the tablet.
+2_Broke_Girls-S06E09_Sub_01 126.5 132.1##Oleg is speaking to the girls from ipad.
+2_Broke_Girls-S06E09_Sub_01 132.1 148.0##Max and Caroline talked with Oleg.
+2_Broke_Girls-S06E09_Sub_01 148.0 149.4##Max held up her phone.
+2_Broke_Girls-S06E09_Sub_01 149.4 154.9##Max is clicking her phone.
+2_Broke_Girls-S06E09_Sub_01 154.9 158.4##Caroline bowed to look the screen.
+2_Broke_Girls-S06E09_Sub_01 158.4 161.0##Oleg is sitting on the sofa.
+2_Broke_Girls-S06E09_Sub_01 161.0 165.9##Max spoke and waved her hand.
+2_Broke_Girls-S06E09_Sub_01 165.9 192.3##Max and Caroline talked to Oleg.
+2_Broke_Girls-S06E09_Sub_01 192.3 200.0##A guy entered the bar.
+2_Broke_Girls-S06E09_Sub_01 200.0 206.2##The guy walked in front of the girls.
+2_Broke_Girls-S06E09_Sub_01 206.2 215.3##The guy moved his body to see what's in the ipad.
+2_Broke_Girls-S06E09_Sub_01 215.3 221.9##Max closed the ipad.
+2_Broke_Girls-S06E09_Sub_01 215.3 221.9##The guy stand straight again.
+2_Broke_Girls-S06E09_Sub_01 221.9 236.7##The guy talked to Caroline and Max.
+2_Broke_Girls-S06E09_Sub_01 236.7 238.7##Earl come to the bar and spoke to the guy.
+2_Broke_Girls-S06E09_Sub_01 238.7 244.0##Earl spoke.
+2_Broke_Girls-S06E09_Sub_01 244.0 247.8##Max and Caroline spoke.
+2_Broke_Girls-S06E09_Sub_01 247.8 257.9##Han entered the bar, holding a sweeper with a label 'Oleg'
+2_Broke_Girls-S06E09_Sub_01 260.8 266.0##Earl spoke.
+2_Broke_Girls-S06E09_Sub_01 266.0 269.6##Han spoke with the sweeper on his hand.
+2_Broke_Girls-S06E09_Sub_01 269.6 272.8##A woman drove to the bar.
+2_Broke_Girls-S06E09_Sub_01 272.8 276.1##Caroline and Max walked to the window.
+2_Broke_Girls-S06E09_Sub_01 276.1 290.7##Caroline and Max talked to the old woman.
+2_Broke_Girls-S06E09_Sub_01 290.7 300.1## Caroline and Max talked to the old woman.
+2_Broke_Girls-S06E09_Sub_01 290.7 300.1##Caroline and Max and the woman smiled.
+2_Broke_Girls-S06E09_Sub_01 300.1 307.3##The old man stuck his head out of the window and talked.
+2_Broke_Girls-S06E09_Sub_01 307.3 314.8##The old woman talked to the guy.

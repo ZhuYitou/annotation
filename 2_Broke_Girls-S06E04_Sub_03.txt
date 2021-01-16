@@ -1,0 +1,50 @@
+2_Broke_Girls-S06E04_Sub_03 0.0 5.4##the woman walk away
+2_Broke_Girls-S06E04_Sub_03 5.4 11.0##Caroline is talking
+2_Broke_Girls-S06E04_Sub_03 11.0 13.8##Max is walking 
+2_Broke_Girls-S06E04_Sub_03 13.8 15.0##Caroline is walking
+2_Broke_Girls-S06E04_Sub_03 15.0 17.5##Max is opening the door
+2_Broke_Girls-S06E04_Sub_03 17.5 19.3##Han is talking
+2_Broke_Girls-S06E04_Sub_03 19.3 21.2##Han take the clothe
+2_Broke_Girls-S06E04_Sub_03 21.2 24.2##Han is talking
+2_Broke_Girls-S06E04_Sub_03 24.2 28.6##Max close the door
+2_Broke_Girls-S06E04_Sub_03 28.6 32.1##Caroline is talking
+2_Broke_Girls-S06E04_Sub_03 32.1 41.7##Caroline is talking
+2_Broke_Girls-S06E04_Sub_03 41.7 48.4##Max is talking
+2_Broke_Girls-S06E04_Sub_03 48.4 55.4##Caroline is talking
+2_Broke_Girls-S06E04_Sub_03 55.4 59.8##Max is talking
+2_Broke_Girls-S06E04_Sub_03 59.8 62.2##Caroline walk into
+2_Broke_Girls-S06E04_Sub_03 62.2 68.7##Caroline is talking.
+2_Broke_Girls-S06E04_Sub_03 68.7 71.8##Max touch Caroline`s hair
+2_Broke_Girls-S06E04_Sub_03 71.8 81.8##Caroline is talking
+2_Broke_Girls-S06E04_Sub_03 81.8 90.6##Caroline is talking
+2_Broke_Girls-S06E04_Sub_03 90.6 93.7##Max is walking
+2_Broke_Girls-S06E04_Sub_03 93.7 95.1##man is talking
+2_Broke_Girls-S06E04_Sub_03 95.1 104.3##The man is talking
+2_Broke_Girls-S06E04_Sub_03 104.3 108.8##Caroline is talking
+2_Broke_Girls-S06E04_Sub_03 108.8 113.2##Max is talking.
+2_Broke_Girls-S06E04_Sub_03 113.2 122.8##Man is talking
+2_Broke_Girls-S06E04_Sub_03 122.8 125.4##Max is walking
+2_Broke_Girls-S06E04_Sub_03 125.4 127.7##Caroline is walking
+2_Broke_Girls-S06E04_Sub_03 127.7 132.8##Caroline do something with water
+2_Broke_Girls-S06E04_Sub_03 132.8 139.3##Max is talking.
+2_Broke_Girls-S06E04_Sub_03 139.3 144.4##the man is talking
+2_Broke_Girls-S06E04_Sub_03 144.4 150.5##Max is talking.
+2_Broke_Girls-S06E04_Sub_03 150.5 158.5##Max is talking
+2_Broke_Girls-S06E04_Sub_03 158.5 167.0##Caroline is doing something with water
+2_Broke_Girls-S06E04_Sub_03 167.0 170.6##Max is talking.
+2_Broke_Girls-S06E04_Sub_03 170.6 174.2##Caroline is praying.
+2_Broke_Girls-S06E04_Sub_03 174.2 180.6##Caroline is talking
+2_Broke_Girls-S06E04_Sub_03 187.3 191.0##Oleg is coming
+2_Broke_Girls-S06E04_Sub_03 199.4 201.9##Max is talking
+2_Broke_Girls-S06E04_Sub_03 201.9 205.3##Oleg is talking
+2_Broke_Girls-S06E04_Sub_03 210.6 216.5##Caroline is talking
+2_Broke_Girls-S06E04_Sub_03 216.5 221.0##Caroline smiles
+2_Broke_Girls-S06E04_Sub_03 221.0 224.7##Oleg is talking
+2_Broke_Girls-S06E04_Sub_03 224.7 226.8##Han come in
+2_Broke_Girls-S06E04_Sub_03 229.5 237.5##Han is talking
+2_Broke_Girls-S06E04_Sub_03 237.5 259.8##Caroline hug a baby
+2_Broke_Girls-S06E04_Sub_03 259.8 266.7##Caroline is talking
+2_Broke_Girls-S06E04_Sub_03 266.7 287.3##the woman is talking
+2_Broke_Girls-S06E04_Sub_03 287.3 295.3##Max is talking
+2_Broke_Girls-S06E04_Sub_03 295.3 298.9##Caroline is talking
+2_Broke_Girls-S06E04_Sub_03 298.9 303.5##Caroline smile

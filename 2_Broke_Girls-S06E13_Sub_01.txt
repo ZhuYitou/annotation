@@ -1,0 +1,35 @@
+2_Broke_Girls-S06E13_Sub_01 0.0 42.5##Max and Caroline enter a room.
+2_Broke_Girls-S06E13_Sub_01 0.0 42.5##They talk with each other.
+2_Broke_Girls-S06E13_Sub_01 42.5 47.3##Caroline carries some bags.
+2_Broke_Girls-S06E13_Sub_01 47.3 56.1##A male waiter appears
+2_Broke_Girls-S06E13_Sub_01 47.3 56.1##Max looks at him.
+2_Broke_Girls-S06E13_Sub_01 56.1 60.1##Max and Caroline approach him.
+2_Broke_Girls-S06E13_Sub_01 60.1 61.7##The man talks with them.
+2_Broke_Girls-S06E13_Sub_01 61.7 82.3##Max point at something. The man looks back and continues to speak.
+2_Broke_Girls-S06E13_Sub_01 82.3 92.1##Max and Caroline are amazed when talking to the man.
+2_Broke_Girls-S06E13_Sub_01 92.1 94.4##Then the man leaves.
+2_Broke_Girls-S06E13_Sub_01 94.4 100.3##Caroline points at the man and talks with Max.
+2_Broke_Girls-S06E13_Sub_01 100.3 119.9##Suddenly they are amazed when seeing something.
+2_Broke_Girls-S06E13_Sub_01 119.9 125.0##They pick up the sweetmeats and start to eat.
+2_Broke_Girls-S06E13_Sub_01 125.0 129.6##Two men walk into the room.
+2_Broke_Girls-S06E13_Sub_01 129.6 139.4##Caroline sees two men and talks to Max amazedly.
+2_Broke_Girls-S06E13_Sub_01 139.4 146.0##After seeing them,Max hides behind the jar.
+2_Broke_Girls-S06E13_Sub_01 146.0 151.9##Max and Caroline talk with each other.
+2_Broke_Girls-S06E13_Sub_01 146.0 151.9##Max let Caroline hide with her.
+2_Broke_Girls-S06E13_Sub_01 151.9 156.5##And Max takes the desserts down.
+2_Broke_Girls-S06E13_Sub_01 156.5 175.5##Four people are in line with paper in hand.
+2_Broke_Girls-S06E13_Sub_01 175.5 177.0##Max and Caroline walk into the room.
+2_Broke_Girls-S06E13_Sub_01 177.0 179.1##They talk with each other.
+2_Broke_Girls-S06E13_Sub_01 179.1 193.8##Caroline points at the salesman and talks to Max.
+2_Broke_Girls-S06E13_Sub_01 193.8 195.9##They look at the saleman together and the saleman looks at them.
+2_Broke_Girls-S06E13_Sub_01 195.9 207.4##Max and Caroline approach the salesman and talk with him.
+2_Broke_Girls-S06E13_Sub_01 207.4 249.9##What the salesman said amazes Max and Caroline.
+2_Broke_Girls-S06E13_Sub_01 249.9 261.9##The salesman leaves.
+2_Broke_Girls-S06E13_Sub_01 261.9 262.9##Max turns to Caroline and talks with her.
+2_Broke_Girls-S06E13_Sub_01 262.9 276.3##As talking with each other,Max and Caroline are in line.
+2_Broke_Girls-S06E13_Sub_01 276.3 286.9##Caroline answers the phone.
+2_Broke_Girls-S06E13_Sub_01 286.9 292.5##Han talks with someone through phone.
+2_Broke_Girls-S06E13_Sub_01 292.5 302.5##Han is very angry.
+2_Broke_Girls-S06E13_Sub_01 302.5 305.4##And he puts his phone into his pocket.
+2_Broke_Girls-S06E13_Sub_01 305.4 307.4##Han turns to talk with Sophie.
+2_Broke_Girls-S06E13_Sub_01 307.4 315.8##Earl talks with someone through phone.

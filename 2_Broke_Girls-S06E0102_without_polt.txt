@@ -1,0 +1,100 @@
+ 0.0 6.1##Max and Caroline open the door of restaurant happily.
+ 0.0 6.1##Max and Caroline enter the restaurant through the door.
+ 9.2 14.1##Max and Caroline are speaking and smiling.
+ 9.2 14.1##Max and Caroline talk with each other.
+ 15.0 21.5##Earl talks to Max and Caroline.
+ 15.0 21.5##Earl talks.
+ 22.1 32.1##Caroline is speaking to Max.
+ 22.1 32.1##Caroline talks herself.
+ 32.2 37.0##Caroline and Max walk into the kitchen from the restaurant.
+ 32.2 37.0##Caroline and Max open the door of kitchen.
+ 38.0 41.0##Oleg takes off pants excitedly.
+ 38.0 41.0##Oleg takes off trousers.
+ 43.0 56.0##Oleg talks with Caroline and Max confidently.
+ 43.0 56.0##Caroline and Max talk with Oleg feeling disgusted.
+ 62.0 67.2##hairs of Caroline and Max are on fire.
+ 62.0 67.2##Caroline and Max are on fire and they yell.
+ 70.1 74.2##Oleg puts out the fire with a water pistol.
+ 70.1 74.0##Oleg puts out the fire.
+ 74.1 84.0##the opening of one episode.
+ 89.1 96.1##Caroline walks to one table in the restaurant and sits with overalls.
+ 89.1 96.1##Caroline walks to one table catching files.
+ 97.1 131.0##Earl and Max and Oleg and Caroline speak one by one in a table.
+ 97.1 131.0##Earl first speak and then Max speak and then Oleg speak and then Caroline speak.
+ 135.1 142.2##Han comes out wearing overalls and walks to the table in the restaurant.
+ 135.1 142.2##Han walks to the table wearing overalls unhappily.
+ 148.2 151.9##Han is speaking and complaining.
+ 148.2 151.9##Han is speaking himself.
+ 153.2 158.5##Max puts a hat on the head of Han and smiles.
+ 153.2 158.5##Max takes out a hat and put it on Han's head.
+ 167.1 237.1##Max and Caroline and Han and Earl and Oleg are talking excitedly.
+ 167.1 237.1##Max and Caroline and Earl and Oleg sit in a table and Han stands beside the table.
+ 238.0 240.5##Han walks away from the restaurant quickly.
+ 248.1 253.0##Earl speaks and eats a pill.
+ 248.1 243.0##Earl and Oleg leave the table.
+ 254.1 265.0##Sophie opens the door of restaurant.
+ 254.1 265.0##Sophie enters the restaurant and talks.
+ 265.5 273.0##Oleg walks to Sophie and talk to Sophie concernedly.
+ 265.5 273.0##Oleg walks to Sophie.
+ 277.0 285.0##Sophie walks to the table and sings.
+ 277.0 285.0##Sophie walks to the table and sits toughly.
+ 285.1 301.1##Han walks to the table in the restaurant and talks to Sophie hospitably.
+ 285.1 301.1##Han walks to the table and Sophie speaks to Han contemptuously.
+ 302.5 304.0##Max is cleaning wine glass in the bar.
+ 304.1 308.1##Caroline goes to the bar counter and speaks.
+ 308.2 320.5##Max and Caroline talk with each other.
+ 308.2 320.5##Caroline and Max talk with each other.
+ 321.0 324.0##a young man enters the bar holding files.
+ 321.0 324.0##a young man opens the door of bar and enters.
+ 328.0 331.1##Max and Caroline speak to a young man.
+ 328.0 331.1##Max and Caroline talk to a young man.
+ 0.0 2.1##a young man talks to Max and Caroline.
+ 2.2 10.1##Caroline talks to a young man and gets close to a young man.
+ 10.5 13.2##Caroline and a young man shake hands happily.
+ 10.5 13.2##a young man and Caroline shake hands smiling.
+ 19.0 32.2##Max talks herself and stop Caroline.
+ 19.0 32.2##Max talks and waves hands regretfully.
+ 33.0 39.2##Caroline talks with a young man and lets a young man go.
+ 33.0 39.2##Caroline talks with a young man contemptuously.
+ 39.3 44.0##Max talks and a young man leave the bar.
+ 39.3 44.0##a young man leave the bar.
+ 50.0 55.1##Caroline and Max go to the bar counter.
+ 50.0 55.1##Max and Caroline go to the bar counter.
+ 55.2 70.1##Caroline and Max talk beside the bar counter.
+ 55.2 70.1##beside the bar counter Caroline and Max talk.
+ 70.3 73.1##an old man enters the bar and talks in a hurry.
+ 70.3 73.1##an old man opens the door of bar and enters.
+ 75.0 79.2##an old man talks himself in a quiveringly voice.
+ 80.0 90.0##Max gets amazed and talks first and then Caroline talks.
+ 80.0 90.0##Max and Caroline talk one by one.
+ 91.0 92.0##an old man raises his hand and complains.
+ 92.5 115.2##Max and Caroline talk with an old man.
+ 92.5 115.2##an old man talks with Max and Caroline.
+ 116.0 120.0##an old man takes out a file and give it to Caroline.
+ 120.1 129.0##Caroline unfolds a file contemptuously.
+ 120.1 129.0##Caroline unfolds a file of an old man.
+ 131.0 162.0##Caroline and an old man read a file.
+ 131.0 162.0##an old man and Caroline read a file in the center of the bar.
+ 163.0 166.1##Max walks to an old man and Caroline and talks contemptuously.
+ 163.0 166.1##Max walks to an old man and Caroline.
+ 183.0 189.2##an old man points at Max and Caroline angrily.
+ 183.0 189.2##Max and Caroline are pointed by an old man.
+ 200.1 202.2##an old man walks out of the bar.
+ 200.1 202.2##an old man leaves the bar in a hurry.
+ 205.1 223.0##Max and Caroline talks with each other happily.
+ 205.1 223.0##Caroline and Max talks with each other ralaxed.
+ 231.0 237.0##Han enters the bar and carries flowers.
+ 231.0 237.0##Han opens the door of the bar and carries flowers and talks to Caroline.
+ 238.0 250.0##Han talks with Caroline and gives flowers to Caroline.
+ 238.0 250.0##Han gives flowers to Caroline and talks with Caroline.
+ 251.0 258.0##Caroline reads the card on the flowers.
+ 251.0 258.0##Caroline reads the card.
+ 251.0 258.0##Caroline first reads the card happily and then became nervous.
+ 258.2 266.1##Caroline gives flowers to Han in a hurry.
+ 270.1 279.1##Caroline pushes Han out of the bar.
+ 270.1 279.1##Han talks with Caroline and Caroline pushes Han out of the bar.
+ 284.1 293.0##Caroline talks and enters the living room.
+ 284.1 293.0##Caroline enters the living room and talks.
+ 294.2 297.0##Max talks on the back side of table inside the living room.
+ 297.2 311.2##Caroline walks to the front side of table inside the living room and Max talks with Caroline.
+ 297.2 311.2##Caroline walks to the front side of table inside the living room and Caroline talks with Max.

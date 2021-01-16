@@ -1,0 +1,56 @@
+2_Broke_Girls-S06E07_Sub_01 0.0 5.0##Max takes a dish to a woman.
+2_Broke_Girls-S06E07_Sub_01 5.0 9.6##A man customer speaks to Max.
+2_Broke_Girls-S06E07_Sub_01 12.8 15.9##Oleg speaks to Max.
+2_Broke_Girls-S06E07_Sub_01 15.9 25.0##Caroline joins the conversation.
+2_Broke_Girls-S06E07_Sub_01 25.0 30.1##Oleg joins the conversation.
+2_Broke_Girls-S06E07_Sub_01 34.5 36.0##Oleg takes something from the man customer.
+2_Broke_Girls-S06E07_Sub_01 50.4 55.0##Earl takes something from the dish.
+2_Broke_Girls-S06E07_Sub_01 55.0 64.3##Earl puts the thing back to the dish.
+2_Broke_Girls-S06E07_Sub_01 55.0 64.3##Han joins the conversation.
+2_Broke_Girls-S06E07_Sub_01 68.7 69.3##Han takes something from the dish.
+2_Broke_Girls-S06E07_Sub_01 68.7 69.3##Han puts something in front of his eyes and looks at it carefully.
+2_Broke_Girls-S06E07_Sub_01 77.8 79.4##The man customer looks confused.
+2_Broke_Girls-S06E07_Sub_01 79.4 90.3##The man customer shouts with excitement.
+2_Broke_Girls-S06E07_Sub_01 90.3 92.6##The man customer take something back from Han's hand.
+2_Broke_Girls-S06E07_Sub_01 92.6 98.6##A woman customer joins the conversation.
+2_Broke_Girls-S06E07_Sub_01 118.0 121.6##A man talks to Max.
+2_Broke_Girls-S06E07_Sub_01 121.6 130.5##Max looks amazed.
+2_Broke_Girls-S06E07_Sub_01 130.5 136.8##Max makes a gesture to the man like a gun.
+2_Broke_Girls-S06E07_Sub_01 136.8 140.7##The man makes a gesture to Max like a gun.
+2_Broke_Girls-S06E07_Sub_01 140.7 144.4##Max shows a little blue bottle to the man.
+2_Broke_Girls-S06E07_Sub_01 154.5 156.3##Max turn to the wine cabinet.
+2_Broke_Girls-S06E07_Sub_01 156.3 158.7##The man rolls up his sleeves.
+2_Broke_Girls-S06E07_Sub_01 162.0 162.8##The man walks to the wine cabinet and takes a cup.
+2_Broke_Girls-S06E07_Sub_01 162.8 166.2##Caroline walks to Max and speak to her.
+2_Broke_Girls-S06E07_Sub_01 166.2 184.9##The man walks to the counter.
+2_Broke_Girls-S06E07_Sub_01 185.0 187.3##The man walks back to the wine cabinet.
+2_Broke_Girls-S06E07_Sub_01 192.8 195.0##Caroline walks into the counter.
+2_Broke_Girls-S06E07_Sub_01 195.0 197.6##A man walks to the counter and talks to Max.
+2_Broke_Girls-S06E07_Sub_01 197.6 202.6##Max waves to the man.
+2_Broke_Girls-S06E07_Sub_01 202.6 205.5##Caroline opens her mouth wide.
+2_Broke_Girls-S06E07_Sub_01 205.5 208.4##Max makes a gesture to the man like a gun.
+2_Broke_Girls-S06E07_Sub_01 208.4 209.9##Caroline talks to the man in the counter.
+2_Broke_Girls-S06E07_Sub_01 214.7 220.6##Caroline waves to the man in the counter to leave.
+2_Broke_Girls-S06E07_Sub_01 220.6 225.1##Max takes up a goblet and shakes it.
+2_Broke_Girls-S06E07_Sub_01 225.1 229.5##Two men leave.
+2_Broke_Girls-S06E07_Sub_01 229.5 231.6##Caroline walks to Max with a dish.
+2_Broke_Girls-S06E07_Sub_01 236.3 236.7##Caroline puts the dish away.
+2_Broke_Girls-S06E07_Sub_01 236.7 238.7##Caroline walks back to Max.
+2_Broke_Girls-S06E07_Sub_01 236.7 238.7##Max are wiping the dishes.
+2_Broke_Girls-S06E07_Sub_01 238.7 242.0##Caroline makes a gesture.
+2_Broke_Girls-S06E07_Sub_01 242.0 260.0##Max flicks Caroline's forehead.
+2_Broke_Girls-S06E07_Sub_01 260.0 260.8##Caroline holds her forehead.
+2_Broke_Girls-S06E07_Sub_01 262.0 263.5##Caroline shrugs her shoulders.
+2_Broke_Girls-S06E07_Sub_01 263.5 268.8##Max opens her mouth wide and looks amazed.
+2_Broke_Girls-S06E07_Sub_01 268.8 277.5##Caroline shakes her hands.
+2_Broke_Girls-S06E07_Sub_01 279.3 281.4##Earl comes out with a stroller.
+2_Broke_Girls-S06E07_Sub_01 279.3 281.4##Earl joins the conversation.
+2_Broke_Girls-S06E07_Sub_01 281.4 283.8##Earl speaks to the child in the stroller.
+2_Broke_Girls-S06E07_Sub_01 283.8 293.2##Earl looks to the dummy on the cash register.
+2_Broke_Girls-S06E07_Sub_01 293.2 298.3##Max and Caaroline walk to Earl.
+2_Broke_Girls-S06E07_Sub_01 298.3 300.2##Earl rises up his right hand.
+2_Broke_Girls-S06E07_Sub_01 300.2 302.5##Earl points his finger at his head.
+2_Broke_Girls-S06E07_Sub_01 304.3 308.0##Earl holds the stroller.
+2_Broke_Girls-S06E07_Sub_01 308.0 308.8##Earl grabs his ear.
+2_Broke_Girls-S06E07_Sub_01 308.8 310.5##Caroline takes up the dummy on the cash register.
+2_Broke_Girls-S06E07_Sub_01 314.1 315.0##Max and Caroline are frightened by the dummy.

@@ -1,0 +1,52 @@
+2_Broke_Girls-S06E05_Sub_04 0.0 2.7##Max smiles
+2_Broke_Girls-S06E05_Sub_04 2.7 4.8##Caroline is talking happily
+2_Broke_Girls-S06E05_Sub_04 4.8 13.0##Caroline is talking 
+2_Broke_Girls-S06E05_Sub_04 4.8 13.0##Caroline smiles
+2_Broke_Girls-S06E05_Sub_04 13.0 19.8##Max smiles
+2_Broke_Girls-S06E05_Sub_04 19.8 23.8##Max is coughing
+2_Broke_Girls-S06E05_Sub_04 23.8 27.4##Caroline is talking 
+2_Broke_Girls-S06E05_Sub_04 23.8 27.4##Caroline smiles
+2_Broke_Girls-S06E05_Sub_04 27.4 32.4##Caroline is talking happily
+2_Broke_Girls-S06E05_Sub_04 27.4 32.4##Caroline is clapping
+2_Broke_Girls-S06E05_Sub_04 32.4 36.5##Max feel amazed
+2_Broke_Girls-S06E05_Sub_04 32.4 36.5##Max is talking excitedly
+2_Broke_Girls-S06E05_Sub_04 36.5 44.6##Caroline is talking
+2_Broke_Girls-S06E05_Sub_04 36.5 44.6##Caroline feel unease
+2_Broke_Girls-S06E05_Sub_04 44.6 46.3##Caroline go away
+2_Broke_Girls-S06E05_Sub_04 46.3 50.0##Max is walking
+2_Broke_Girls-S06E05_Sub_04 50.0 60.3##Max is talking
+2_Broke_Girls-S06E05_Sub_04 60.3 71.5##Max is talking with students
+2_Broke_Girls-S06E05_Sub_04 71.5 83.0##Max raise her hand
+2_Broke_Girls-S06E05_Sub_04 83.0 86.8##Max take a pencil
+2_Broke_Girls-S06E05_Sub_04 83.0 86.8##Max is talking
+2_Broke_Girls-S06E05_Sub_04 86.8 96.2##Max is coming into the restanrant
+2_Broke_Girls-S06E05_Sub_04 86.8 96.2##Caroline is coming into the restaurant
+2_Broke_Girls-S06E05_Sub_04 86.8 96.2##Max is talking 
+2_Broke_Girls-S06E05_Sub_04 86.8 96.2##Caroline is talking
+2_Broke_Girls-S06E05_Sub_04 96.2 102.6##Max is talking
+2_Broke_Girls-S06E05_Sub_04 96.2 102.6##Caroline smiles
+2_Broke_Girls-S06E05_Sub_04 102.6 111.0##Max is walking 
+2_Broke_Girls-S06E05_Sub_04 102.6 111.0##Caroline is walking
+2_Broke_Girls-S06E05_Sub_04 111.0 120.0##The woman is talking
+2_Broke_Girls-S06E05_Sub_04 120.0 123.0##Caroline is talking.
+2_Broke_Girls-S06E05_Sub_04 123.0 126.6##The woman smiless
+2_Broke_Girls-S06E05_Sub_04 126.6 130.1##Han is walking
+2_Broke_Girls-S06E05_Sub_04 126.6 130.1##Han is comingk
+2_Broke_Girls-S06E05_Sub_04 130.1 133.0##Han is talking
+2_Broke_Girls-S06E05_Sub_04 133.0 136.0##Caroline is talking
+2_Broke_Girls-S06E05_Sub_04 133.0 136.0##Caroline take a card
+2_Broke_Girls-S06E05_Sub_04 136.0 139.4##Han is talking
+2_Broke_Girls-S06E05_Sub_04 139.4 141.5##Caroline smiles
+2_Broke_Girls-S06E05_Sub_04 139.4 141.5##Max smiles
+2_Broke_Girls-S06E05_Sub_04 141.5 145.8##Caroline is talking
+2_Broke_Girls-S06E05_Sub_04 145.8 151.4##the woman is talking
+2_Broke_Girls-S06E05_Sub_04 151.4 156.6##Caroline feel amazed
+2_Broke_Girls-S06E05_Sub_04 151.4 156.6##Max feel amazed
+2_Broke_Girls-S06E05_Sub_04 156.6 159.9##Han is talking
+2_Broke_Girls-S06E05_Sub_04 159.9 162.5##Max is tallking 
+2_Broke_Girls-S06E05_Sub_04 159.9 162.5##Caroline smiles
+2_Broke_Girls-S06E05_Sub_04 162.5 167.7##Han is talking 
+2_Broke_Girls-S06E05_Sub_04 167.7 169.2##Han go away
+2_Broke_Girls-S06E05_Sub_04 169.2 173.6##Oleg is coming 
+2_Broke_Girls-S06E05_Sub_04 169.2 173.6##Oleg is talking
+2_Broke_Girls-S06E05_Sub_04 173.6 185.3##Max is talking 

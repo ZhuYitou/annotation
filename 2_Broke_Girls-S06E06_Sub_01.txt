@@ -1,0 +1,68 @@
+2_Broke_Girls-S06E06_Sub_01 0.0 3.3##Caroline comes in the door.
+2_Broke_Girls-S06E06_Sub_01 3.3 8.5##Caroline talks to Max as she walks.
+2_Broke_Girls-S06E06_Sub_01 8.5 12.8##Caroline stops and talks to Max.
+2_Broke_Girls-S06E06_Sub_01 12.8 22.0##Max is talking and smiling at the counter.
+2_Broke_Girls-S06E06_Sub_01 22.0 30.9##Caroline is talking and smiling in front of the counter.
+2_Broke_Girls-S06E06_Sub_01 30.9 36.0##Max puts her hand on the cartons and talks to Caroline.
+2_Broke_Girls-S06E06_Sub_01 36.0 40.7##Caroline is a little confused.
+2_Broke_Girls-S06E06_Sub_01 36.0 40.7##Caroline talks to Max.
+2_Broke_Girls-S06E06_Sub_01 40.7 43.7##Caroline and Max talk with each other.
+2_Broke_Girls-S06E06_Sub_01 40.7 43.7##Caroline frowned.
+2_Broke_Girls-S06E06_Sub_01 43.7 46.0##Caroline walks away from the counter.
+2_Broke_Girls-S06E06_Sub_01 43.7 46.0##Max picks up the cartons on the counter.
+2_Broke_Girls-S06E06_Sub_01 46.0 50.7##Caroline walks up to Max.
+2_Broke_Girls-S06E06_Sub_01 46.0 50.7##Caroline talks to Max with a smile.
+2_Broke_Girls-S06E06_Sub_01 50.7 51.5##Max holds cartons in her hands.
+2_Broke_Girls-S06E06_Sub_01 50.7 51.5##Max kicks the door open with her foot.
+2_Broke_Girls-S06E06_Sub_01 51.5 52.5##Max and Caroline enter the door.
+2_Broke_Girls-S06E06_Sub_01 52.5 56.8##Scene conversion.
+2_Broke_Girls-S06E06_Sub_01 56.8 62.4##The scene changes back.
+2_Broke_Girls-S06E06_Sub_01 56.8 62.4##Max enters the door.
+2_Broke_Girls-S06E06_Sub_01 62.4 69.3##The door closes automatically.
+2_Broke_Girls-S06E06_Sub_01 62.4 69.3##Max holds the cartons and talks to Caroline.
+2_Broke_Girls-S06E06_Sub_01 69.3 72.6##Caroline talks to Max.
+2_Broke_Girls-S06E06_Sub_01 69.3 72.6##Caroline sees the note on the table.
+2_Broke_Girls-S06E06_Sub_01 72.6 76.2##Caroline picks up the note on the table.
+2_Broke_Girls-S06E06_Sub_01 72.6 76.2##Caroline sees the note and smiles.
+2_Broke_Girls-S06E06_Sub_01 76.2 82.3##Caroline reads Max the note.
+2_Broke_Girls-S06E06_Sub_01 76.2 82.3##Max talks to Caroline.
+2_Broke_Girls-S06E06_Sub_01 82.3 90.0##Caroline and Max discuss the contents of the note.
+2_Broke_Girls-S06E06_Sub_01 82.3 90.0##Max puts the cartons on the table. 
+2_Broke_Girls-S06E06_Sub_01 90.0 96.0##Caroline puts his hand on his waist.
+2_Broke_Girls-S06E06_Sub_01 90.0 96.0##Caroline speaks to Max helplessly. 
+2_Broke_Girls-S06E06_Sub_01 96.0 100.9##Caroline gives the note to Max.
+2_Broke_Girls-S06E06_Sub_01 96.0 100.9##Caroline smiles proudly.
+2_Broke_Girls-S06E06_Sub_01 100.9 107.0##Max lights the note with a lighter.
+2_Broke_Girls-S06E06_Sub_01 100.9 107.0##Max and Caroline leave.
+2_Broke_Girls-S06E06_Sub_01 107.0 110.1##Max and Caroline go through the next door and see Han.
+2_Broke_Girls-S06E06_Sub_01 110.1 120.1##Han speaks to Max and Caroline.
+2_Broke_Girls-S06E06_Sub_01 120.1 125.8##Max and Caroline reply to Han.
+2_Broke_Girls-S06E06_Sub_01 125.8 131.0##Han looks a little ugly.
+2_Broke_Girls-S06E06_Sub_01 131.0 134.8##Han says and walks away.
+2_Broke_Girls-S06E06_Sub_01 134.8 136.7##Earl speaks to Max and Caroline with a teacup in his hand.
+2_Broke_Girls-S06E06_Sub_01 136.7 145.4##Earl walks away.
+2_Broke_Girls-S06E06_Sub_01 136.7 145.4##Max and Caroline talk with each other happily.
+2_Broke_Girls-S06E06_Sub_01 145.4 154.3##Caroline walks over with a smile.
+2_Broke_Girls-S06E06_Sub_01 145.4 154.3##Caroline takes away a plate.
+2_Broke_Girls-S06E06_Sub_01 154.3 165.7##Max takes out her phone and makes a video call with a man.
+2_Broke_Girls-S06E06_Sub_01 154.3 165.7##Caroline puts the plate down and watches the video.
+2_Broke_Girls-S06E06_Sub_01 165.7 171.3##The man in the cell phone is talking.
+2_Broke_Girls-S06E06_Sub_01 171.3 178.0##Max takes back her phone with a smile.
+2_Broke_Girls-S06E06_Sub_01 178.0 181.8##Oleg talks to Max and Caroline through the window. 
+2_Broke_Girls-S06E06_Sub_01 181.8 187.4##Oleg shows Max and Caroline two pairs of underwear.
+2_Broke_Girls-S06E06_Sub_01 187.4 191.9##Oleg walks away.
+2_Broke_Girls-S06E06_Sub_01 191.9 194.9##Max and Caroline talk with each other happily.
+2_Broke_Girls-S06E06_Sub_01 194.9 205.0##Max walks away as she speaks to Caroline.
+2_Broke_Girls-S06E06_Sub_01 205.0 209.5##Max goes to the table and picks up the tip.
+2_Broke_Girls-S06E06_Sub_01 209.5 214.5##An old woman comes in with a suitcase at the door.
+2_Broke_Girls-S06E06_Sub_01 214.5 227.6##Max and Caroline talk with the woman.
+2_Broke_Girls-S06E06_Sub_01 227.6 256.9##Earl comes over.
+2_Broke_Girls-S06E06_Sub_01 227.6 256.9##The woman is surprised to see Earl.
+2_Broke_Girls-S06E06_Sub_01 256.9 264.9##The woman speaks to Earl excitedly.
+2_Broke_Girls-S06E06_Sub_01 264.9 271.8##The woman hugs Earl.
+2_Broke_Girls-S06E06_Sub_01 271.8 285.4##Max and Caroline walk away.
+2_Broke_Girls-S06E06_Sub_01 271.8 285.4##Earl talks to the woman hand in hand.
+2_Broke_Girls-S06E06_Sub_01 285.4 296.0##Earl kisses the woman's hand.
+2_Broke_Girls-S06E06_Sub_01 296.0 306.0##Earl and the woman walk away.
+2_Broke_Girls-S06E06_Sub_01 306.0 318.7##Max makes bread.
+2_Broke_Girls-S06E06_Sub_01 306.0 318.7##Caroline speaks to Max.

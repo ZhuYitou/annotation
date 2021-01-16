@@ -1,0 +1,34 @@
+2_Broke_Girls-S06E04_Sub_01 0.0 12.0## Max and Caroline talk to each others happily.
+2_Broke_Girls-S06E04_Sub_01 12.0 15.0##Oleg open the door excitedly.
+2_Broke_Girls-S06E04_Sub_01 15.0 24.0##Oleg talk to Max and Caroline.
+2_Broke_Girls-S06E04_Sub_01 24.0 37.0##Max is talking.
+2_Broke_Girls-S06E04_Sub_01 37.0 48.0##Oleg is talking excitedly.
+2_Broke_Girls-S06E04_Sub_01 48.0 58.0##Caroline is talking.
+2_Broke_Girls-S06E04_Sub_01 65.1 78.1##Oleg drink the wine.
+2_Broke_Girls-S06E04_Sub_01 88.0 90.1##Max and Caroline walk into the kitchen.
+2_Broke_Girls-S06E04_Sub_01 90.1 92.1##Han talk to Max and Caroline.
+2_Broke_Girls-S06E04_Sub_01 102.1 107.2##Han is talking.
+2_Broke_Girls-S06E04_Sub_01 107.2 110.1##Max is talking to Han.
+2_Broke_Girls-S06E04_Sub_01 127.2 129##Max get out of kitchen.
+2_Broke_Girls-S06E04_Sub_01 132.0 133.0##Max is talking
+2_Broke_Girls-S06E04_Sub_01 139.0 141.2##Max is talkig happily
+2_Broke_Girls-S06E04_Sub_01 143.0 145.0##Oleg is talking 
+2_Broke_Girls-S06E04_Sub_01 148.1 150##Oleg`s mother is coming.
+2_Broke_Girls-S06E04_Sub_01 155.1 156.2##Oleg give a hug with his mom
+2_Broke_Girls-S06E04_Sub_01 159 9 160.1##Oleg kiss with his mom.
+2_Broke_Girls-S06E04_Sub_01 163.2 166.2##Max is talking.
+2_Broke_Girls-S06E04_Sub_01 177.0 184.0##Oleg`s mom is talking.
+2_Broke_Girls-S06E04_Sub_01 190.1 198.2##Oleg hold his mom`s leg
+2_Broke_Girls-S06E04_Sub_01 201.1 209.1##Caroline is talkig.
+2_Broke_Girls-S06E04_Sub_01 209.2 215.2##Max is talking.
+2_Broke_Girls-S06E04_Sub_01 215.2 220.1##Oleg is talking.
+2_Broke_Girls-S06E04_Sub_01 221.2 229.0##hei is talking.
+2_Broke_Girls-S06E04_Sub_01 231.2 236.0##Oleg`s mom is talking.
+2_Broke_Girls-S06E04_Sub_01 238.2 242.1##Oleg is talking.
+2_Broke_Girls-S06E04_Sub_01 242.1 257.2##hei is talking.
+2_Broke_Girls-S06E04_Sub_01 257.0 272.1##Han is talking to Oleg`s mom.
+2_Broke_Girls-S06E04_Sub_01 273.3 279.2##Caroline is talking.
+2_Broke_Girls-S06E04_Sub_01 280.1 295.1##Oleg`s mom is talking.
+2_Broke_Girls-S06E04_Sub_01 295.2 298.0##Max points to Han.
+2_Broke_Girls-S06E04_Sub_01 299.0 310.2##Han is talking.
+2_Broke_Girls-S06E04_Sub_01 325.0##A womam is coming with a baby car.

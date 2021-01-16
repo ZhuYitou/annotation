@@ -1,0 +1,57 @@
+2_Broke_Girls-S06E05_Sub_01 0.0 4.5##Han is coming.
+2_Broke_Girls-S06E05_Sub_01 4.5 8.5##Max is talking
+2_Broke_Girls-S06E05_Sub_01 4.5 8.5##Max smiles
+2_Broke_Girls-S06E05_Sub_01 8.5 9.9##Caroline smiles
+2_Broke_Girls-S06E05_Sub_01 9.9 13.6##Han is walking
+2_Broke_Girls-S06E05_Sub_01 9.9 13.6##Han is talking
+2_Broke_Girls-S06E05_Sub_01 9.9 13.6##Han smiles
+2_Broke_Girls-S06E05_Sub_01 13.6 19.1##Caroline is talking
+2_Broke_Girls-S06E05_Sub_01 13.6 19.1##Caroline smiles
+2_Broke_Girls-S06E05_Sub_01 19.1 24.1##Max is talking 
+2_Broke_Girls-S06E05_Sub_01 19.1 24.1##Caroline smiles
+2_Broke_Girls-S06E05_Sub_01 24.1 29.7##Han is talking happily
+2_Broke_Girls-S06E05_Sub_01 29.7 34.5##Han take off his hat
+2_Broke_Girls-S06E05_Sub_01 34.5 37.2##Max is talking
+2_Broke_Girls-S06E05_Sub_01 37.2 42.4##Han is doing something with his hat
+2_Broke_Girls-S06E05_Sub_01 42.4 44.9##Caroline is talking
+2_Broke_Girls-S06E05_Sub_01 42.4 44.9##Max smiles
+2_Broke_Girls-S06E05_Sub_01 44.9 52.3##Oleg is talking
+2_Broke_Girls-S06E05_Sub_01 44.9 52.3##Oleg take a plate
+2_Broke_Girls-S06E05_Sub_01 52.3 59.2##Max is talking
+2_Broke_Girls-S06E05_Sub_01 52.3 59.2##Max smiles
+2_Broke_Girls-S06E05_Sub_01 59.2 79.4##Caroline is talking 
+2_Broke_Girls-S06E05_Sub_01 59.2 79.4##Caroline smiles
+2_Broke_Girls-S06E05_Sub_01 59.2 79.4##Max feel amazed
+2_Broke_Girls-S06E05_Sub_01 79.4 85.3##Caroline give a book to Max
+2_Broke_Girls-S06E05_Sub_01 85.3 93.8##Caroline is talking
+2_Broke_Girls-S06E05_Sub_01 93.8 102.6##Caroline is reading happily
+2_Broke_Girls-S06E05_Sub_01 102.6 108.5##Max is talking happily
+2_Broke_Girls-S06E05_Sub_01 108.5 117.0##Caroline smiles
+2_Broke_Girls-S06E05_Sub_01 117.0 124.3##Max is talking
+2_Broke_Girls-S06E05_Sub_01 124.3 131.2##Caroline is talking
+2_Broke_Girls-S06E05_Sub_01 124.3 131.2##Max smiles
+2_Broke_Girls-S06E05_Sub_01 138.1 141.6##the woman is talking
+2_Broke_Girls-S06E05_Sub_01 141.6 146.0##Max is walking
+2_Broke_Girls-S06E05_Sub_01 141.6 146.0##Caroline is talking
+2_Broke_Girls-S06E05_Sub_01 146.0 153.3##The woman is talking happily.
+2_Broke_Girls-S06E05_Sub_01 153.3 156.2##Max is talking happily
+2_Broke_Girls-S06E05_Sub_01 156.2 161.1##Oleg is coming.
+2_Broke_Girls-S06E05_Sub_01 161.1 165.8##Oleg is walking
+2_Broke_Girls-S06E05_Sub_01 161.1 165.8##Oleg is talking
+2_Broke_Girls-S06E05_Sub_01 165.8 173.9##The woman is talking
+2_Broke_Girls-S06E05_Sub_01 173.9 183.9##Oleg is talking excitedly
+2_Broke_Girls-S06E05_Sub_01 183.9 187.0##Max is talking happily
+2_Broke_Girls-S06E05_Sub_01 187.0 191.7##the woman stand up
+2_Broke_Girls-S06E05_Sub_01 191.7 194.8##Oleg is talking excitedly
+2_Broke_Girls-S06E05_Sub_01 194.8 205.4##Caroline is talking
+2_Broke_Girls-S06E05_Sub_01 205.4 210.4##The woman is talking happily
+2_Broke_Girls-S06E05_Sub_01 210.4 215.9##The woman take the baby car away
+2_Broke_Girls-S06E05_Sub_01 215.9 227.1##The woman go away
+2_Broke_Girls-S06E05_Sub_01 227.1 230.7##Max is talking
+2_Broke_Girls-S06E05_Sub_01 230.7 234.5##Oleg is talking unhappily
+2_Broke_Girls-S06E05_Sub_01 234.5 239.3##Oleg go away.
+2_Broke_Girls-S06E05_Sub_01 239.3 245.0##Caroline is talking
+2_Broke_Girls-S06E05_Sub_01 239.3 245.0##Caroline smiles
+2_Broke_Girls-S06E05_Sub_01 245.0 258.0##Caroline smile 
+2_Broke_Girls-S06E05_Sub_01 245.0 258.0##Max is talking happily
+2_Broke_Girls-S06E05_Sub_01 258.0 274.4##Caroline smiles
