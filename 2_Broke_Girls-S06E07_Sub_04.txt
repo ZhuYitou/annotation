@@ -1,0 +1,47 @@
+2_Broke_Girls-S06E07_Sub_04 0.0 5.7##Everyone is checking the items on the table.
+2_Broke_Girls-S06E07_Sub_04 5.7 14.3##Caroline is showing her clothes to a man.
+2_Broke_Girls-S06E07_Sub_04 14.3 28.5##Caroline and the man talk with each other.
+2_Broke_Girls-S06E07_Sub_04 28.5 36.9##The man sees the doll on the table.
+2_Broke_Girls-S06E07_Sub_04 28.5 36.9##Caroline talks to the man.
+2_Broke_Girls-S06E07_Sub_04 36.9 49.5##The man walks away.
+2_Broke_Girls-S06E07_Sub_04 36.9 49.5##The man talks to everyone.
+2_Broke_Girls-S06E07_Sub_04 49.5 51.7##Caroline looks at the doll.
+2_Broke_Girls-S06E07_Sub_04 51.7 57.4##Max is watching her phone.
+2_Broke_Girls-S06E07_Sub_04 51.7 57.4##Han is pouring water. 
+2_Broke_Girls-S06E07_Sub_04 57.4 70.6##Caroline and Max are on a video call.
+2_Broke_Girls-S06E07_Sub_04 70.6 82.1##Caroline turns to two young people and says to them.
+2_Broke_Girls-S06E07_Sub_04 82.1 86.0##Caroline picks up a bottle of wine.
+2_Broke_Girls-S06E07_Sub_04 86.0 92.5##Caroline lets Max see the bottle of wine.
+2_Broke_Girls-S06E07_Sub_04 92.5 98.4##Caroline picks up another bottle of wine.
+2_Broke_Girls-S06E07_Sub_04 98.4 106.2##Han walks up to Max with a cup of hot water.
+2_Broke_Girls-S06E07_Sub_04 98.4 106.2##Han sits next to Max.
+2_Broke_Girls-S06E07_Sub_04 106.2 111.4##Han blows the water.
+2_Broke_Girls-S06E07_Sub_04 106.2 111.4##Max lets Han take a look at her phone.
+2_Broke_Girls-S06E07_Sub_04 111.4 115.5##Han spills coffee on the table.
+2_Broke_Girls-S06E07_Sub_04 111.4 115.5##Caroline screams.
+2_Broke_Girls-S06E07_Sub_04 115.5 119.1##Everyone is scared.
+2_Broke_Girls-S06E07_Sub_04 115.5 119.1##Caroline apologizes to everyone.
+2_Broke_Girls-S06E07_Sub_04 119.1 122.4##The man talks to Caroline.
+2_Broke_Girls-S06E07_Sub_04 122.4 133.3##Max and Han talk with each other.
+2_Broke_Girls-S06E07_Sub_04 122.4 133.3##Han finishes the rest of the coffee.
+2_Broke_Girls-S06E07_Sub_04 133.3 141.2##Max hits Han.
+2_Broke_Girls-S06E07_Sub_04 141.2 149.7##Han blows with a hair dryer.
+2_Broke_Girls-S06E07_Sub_04 141.2 149.7##Caroline dances with her hands.
+2_Broke_Girls-S06E07_Sub_04 149.7 162.0##The man walks up to Caroline and talks to her.
+2_Broke_Girls-S06E07_Sub_04 149.7 162.0##The woman laughs. 
+2_Broke_Girls-S06E07_Sub_04 162.0 179.4##Caroline explains to the man.
+2_Broke_Girls-S06E07_Sub_04 162.0 179.4##The man picks up the doll on the table.
+2_Broke_Girls-S06E07_Sub_04 179.4 186.9##Han is tearing up the paper.
+2_Broke_Girls-S06E07_Sub_04 186.9 192.0##Caroline and Max enter the door.
+2_Broke_Girls-S06E07_Sub_04 192.0 216.4##Caroline and Max talk with each other
+2_Broke_Girls-S06E07_Sub_04 216.4 222.5##Oleg and Sophie enter the door.
+2_Broke_Girls-S06E07_Sub_04 222.5 235.5##Oleg and Sophie walk up to Max and Caroline and speak to them.
+2_Broke_Girls-S06E07_Sub_04 235.5 260.9##Sophie walks away.
+2_Broke_Girls-S06E07_Sub_04 235.5 260.9##Oleg talks to Max and Caroline.
+2_Broke_Girls-S06E07_Sub_04 260.9 275.5##Oleg walks away.
+2_Broke_Girls-S06E07_Sub_04 260.9 275.5##Two young men walk up to the counter.
+2_Broke_Girls-S06E07_Sub_04 260.9 275.5##Max takes out a glass.
+2_Broke_Girls-S06E07_Sub_04 275.5 288.7##Max and Caroline talk with each other. 
+2_Broke_Girls-S06E07_Sub_04 288.7 300.0##Max takes out a bottle of wine.
+2_Broke_Girls-S06E07_Sub_04 300.0 311.6##Max pours a glass of wine.
+

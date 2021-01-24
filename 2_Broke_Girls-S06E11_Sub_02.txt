@@ -1,0 +1,43 @@
+2_Broke_Girls-S06E11_Sub_02 0.0 7.3##Max and Caroline are standing beside the bar counter.
+2_Broke_Girls-S06E11_Sub_02 0.0 7.3##Max is talking.
+2_Broke_Girls-S06E11_Sub_02 0.0 7.3##Caroline is looking at Max.
+2_Broke_Girls-S06E11_Sub_02 0.0 7.3##Max and Caroline are smiling.
+2_Broke_Girls-S06E11_Sub_02 7.3 9.6##Sophie is sitting on the sofa.
+2_Broke_Girls-S06E11_Sub_02 9.6 10.2##Sophie stands up.
+2_Broke_Girls-S06E11_Sub_02 10.2 17.2##Sophie walks towards them.
+2_Broke_Girls-S06E11_Sub_02 10.2 17.2##Sophie stands beside Han.
+2_Broke_Girls-S06E11_Sub_02 17.2 33.5##Max, Caroline and Sophie are talking.
+2_Broke_Girls-S06E11_Sub_02 33.5 36.7##Han is driving a car.
+2_Broke_Girls-S06E11_Sub_02 33.5 36.7##Max and Caroline are sitting on the back seats.
+2_Broke_Girls-S06E11_Sub_02 36.7 48.4##Han is talking.
+2_Broke_Girls-S06E11_Sub_02 48.4 57.7##Caroline opens her mouth wide.
+2_Broke_Girls-S06E11_Sub_02 48.4 57.7##Caroline yawns.
+2_Broke_Girls-S06E11_Sub_02 57.7 65.3##Caroline talks with Max.
+2_Broke_Girls-S06E11_Sub_02 65.3 79.6##Caroline lifts up a piece of sandwiches.
+2_Broke_Girls-S06E11_Sub_02 79.6 92.5##Max lifts up a CD.
+2_Broke_Girls-S06E11_Sub_02 92.5 99.0##Caroline hands something to Han.
+2_Broke_Girls-S06E11_Sub_02 99.0 106.2##Han puts a candy into his mouth.
+2_Broke_Girls-S06E11_Sub_02 99.0 106.2##Han chews the candy painfully.
+2_Broke_Girls-S06E11_Sub_02 106.2 113.5##Max is looking at herself through a mirror.
+2_Broke_Girls-S06E11_Sub_02 113.5 132.9##A man is speaking in Max's phone.
+2_Broke_Girls-S06E11_Sub_02 134.0 184.4##Max, Caroline and Han are talking.
+2_Broke_Girls-S06E11_Sub_02 184.4 189.9##Oleg walks out.
+2_Broke_Girls-S06E11_Sub_02 184.4 189.9##Oleg holds a wired telephone.
+2_Broke_Girls-S06E11_Sub_02 184.4 189.9##Oleg walks towards the bar counter.
+2_Broke_Girls-S06E11_Sub_02 189.9 199.4##Oleg puts the telephone on the counter.
+2_Broke_Girls-S06E11_Sub_02 189.9 199.4##Oleg talks with Earl.
+2_Broke_Girls-S06E11_Sub_02 199.4 204.6##Sophie walks out from the restroom.
+2_Broke_Girls-S06E11_Sub_02 204.6 221.2##Sophie holds a pen and a notebook.
+2_Broke_Girls-S06E11_Sub_02 204.6 221.2##Sophie writes somenthing.
+2_Broke_Girls-S06E11_Sub_02 222.0 226.5##Oleg nods.
+2_Broke_Girls-S06E11_Sub_02 226.5 239.5##Han is driving.
+2_Broke_Girls-S06E11_Sub_02 226.5 239.5##Caroline sits beside him.
+2_Broke_Girls-S06E11_Sub_02 226.5 239.5##Han and Caroline are singing happily.
+2_Broke_Girls-S06E11_Sub_02 226.5 239.5##Max is sitting on the back seat.
+2_Broke_Girls-S06E11_Sub_02 226.5 239.5##Max is looking at Han and Caroline awkwardly.
+2_Broke_Girls-S06E11_Sub_02 239.5 283.9##Max talks with Caroline.
+2_Broke_Girls-S06E11_Sub_02 283.9 289.1##The car breaks down.
+2_Broke_Girls-S06E11_Sub_02 283.9 289.1##Max, Caroline and Han are talking.
+2_Broke_Girls-S06E11_Sub_02 289.1 301.5##Max Caroline and Han come out from the car.
+2_Broke_Girls-S06E11_Sub_02 289.1 301.5##Han is checking the car.
+2_Broke_Girls-S06E11_Sub_02 301.5 304.9##Max is talking with Caroline.

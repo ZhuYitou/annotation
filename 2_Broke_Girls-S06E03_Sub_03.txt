@@ -1,0 +1,50 @@
+2_Broke_Girls-S06E03_Sub_03 0.0 12.7##Max gives Oleg a text book.
+2_Broke_Girls-S06E03_Sub_03 0.0 12.7## Oleg takes the text book away.
+2_Broke_Girls-S06E03_Sub_03 0.0 12.7## He write some words on it.
+2_Broke_Girls-S06E03_Sub_03 12.7 19.4##Caroline talks astonishedly at Max.
+2_Broke_Girls-S06E03_Sub_03 12.7 19.4## Han enters the kitchen with a stool in his hand.
+2_Broke_Girls-S06E03_Sub_03 12.7 19.4## He speaks anxiously.
+2_Broke_Girls-S06E03_Sub_03 19.4 29.3##Max talks to Han.
+2_Broke_Girls-S06E03_Sub_03 19.4 29.3## Han talks to himself.
+2_Broke_Girls-S06E03_Sub_03 29.3 40.8##Caroline talks to Han.
+2_Broke_Girls-S06E03_Sub_03 41.0 48.1##Han hides the stool under the capboard.
+2_Broke_Girls-S06E03_Sub_03 48.1 55.0##Han leave the kitchen.
+2_Broke_Girls-S06E03_Sub_03 55.0 61.3##Caroline talks to Max.
+2_Broke_Girls-S06E03_Sub_03 61.3 69.6##Earl enters the kitchen.
+2_Broke_Girls-S06E03_Sub_03 69.6 74.0##Earl asks for the stool.
+2_Broke_Girls-S06E03_Sub_03 69.6 74.0## Every one point at the bottom of the cupboard.
+2_Broke_Girls-S06E03_Sub_03 74.0 81.7##Earl finds the stool.
+2_Broke_Girls-S06E03_Sub_03 74.0 81.7## He leave the kitchen.
+2_Broke_Girls-S06E03_Sub_03 81.7 88.6##Max talks to Oleg.
+2_Broke_Girls-S06E03_Sub_03 81.7 88.6## Oleg leave the kitchen.
+2_Broke_Girls-S06E03_Sub_03 88.6 91.7##The women are having their arm wrestling in the bar.
+2_Broke_Girls-S06E03_Sub_03 91.7 98.2##Caroline talks to Max firmly.
+2_Broke_Girls-S06E03_Sub_03 108.2 114.6##A man is about to leave.
+2_Broke_Girls-S06E03_Sub_03 114.6 117.0##Caroline begs him not to leave.
+2_Broke_Girls-S06E03_Sub_03 117.0 119.6##The man leave the bar.
+2_Broke_Girls-S06E03_Sub_03 119.6 127.6##Max talks to Caroline.
+2_Broke_Girls-S06E03_Sub_03 127.6 135.0##Caroline asks the crazy women to leave.
+2_Broke_Girls-S06E03_Sub_03 135.0 145.1##A woman refuses.
+2_Broke_Girls-S06E03_Sub_03 145.1 160.7##Caroline speaks to the woman.
+2_Broke_Girls-S06E03_Sub_03 160.7 171.0##Caroline walks down the step.
+2_Broke_Girls-S06E03_Sub_03 171.0 183.4##The woman speaks to Caroline arrogantly.
+2_Broke_Girls-S06E03_Sub_03 171.0 183.4## Max walks to them.
+2_Broke_Girls-S06E03_Sub_03 183.4 194.9##The woman continues.
+2_Broke_Girls-S06E03_Sub_03 183.4 194.9## The others laugh.
+2_Broke_Girls-S06E03_Sub_03 194.9 217.8##Max and Caroline talks to the woman.
+2_Broke_Girls-S06E03_Sub_03 194.9 217.8## The woman continues shouting at them.
+2_Broke_Girls-S06E03_Sub_03 217.8 231.7##The woman ask them to have a wresting competition.
+2_Broke_Girls-S06E03_Sub_03 217.8 231.7## She looks at them with a glare.
+2_Broke_Girls-S06E03_Sub_03 231.7 239.3##The woman sits down.
+2_Broke_Girls-S06E03_Sub_03 231.7 239.3## Max prepares to have the competition.
+2_Broke_Girls-S06E03_Sub_03 239.3 246.1##A woman ties them hands together.
+2_Broke_Girls-S06E03_Sub_03 239.3 246.1## Caroline speak trash talk to the opponent.
+2_Broke_Girls-S06E03_Sub_03 246.1 259.0##The competition begins.
+2_Broke_Girls-S06E03_Sub_03 259.0 266.8##The competitors burst out.
+2_Broke_Girls-S06E03_Sub_03 266.8 274.0##Caroline cheers Max up.
+2_Broke_Girls-S06E03_Sub_03 274.0 282.8##The competitors burst out.
+2_Broke_Girls-S06E03_Sub_03 282.8 295.8##Max talks to Caroline.
+2_Broke_Girls-S06E03_Sub_03 295.8 306.9##Caroline is going to have a competition with the woman.
+2_Broke_Girls-S06E03_Sub_03 306.9 309.6##Max talks to Caroline.
+2_Broke_Girls-S06E03_Sub_03 306.9 309.6## Caroline feels hopeless.
+2_Broke_Girls-S06E03_Sub_03 309.6 313.4##A woman begins counting.

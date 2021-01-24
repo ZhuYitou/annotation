@@ -1,0 +1,55 @@
+2_Broke_Girls-S06E15_Sub_02 0.0 1.6##Max is eating chips.
+2_Broke_Girls-S06E15_Sub_02 1.6 4.8##Max is talking.
+2_Broke_Girls-S06E15_Sub_02 4.8 12.0##Max points to Caroline.
+2_Broke_Girls-S06E15_Sub_02 12.0 24.3##Caroline walks away.
+2_Broke_Girls-S06E15_Sub_02 24.3 26.0##Oleg opens the door of living room.
+2_Broke_Girls-S06E15_Sub_02 26.0 26.4##Sophie and Oleg enter the room.
+2_Broke_Girls-S06E15_Sub_02 26.4 28.8##Max and Caroline are looking at Oleg and Sophie.
+2_Broke_Girls-S06E15_Sub_02 28.8 33.0##Sophie is talking to Caroline.
+2_Broke_Girls-S06E15_Sub_02 33.0 40.8##Max walks and speaks to Caroline.
+2_Broke_Girls-S06E15_Sub_02 40.8 64.8##Sophie sits beside Max.
+2_Broke_Girls-S06E15_Sub_02 64.8 77.7##Sophie smiles.
+2_Broke_Girls-S06E15_Sub_02 77.7 82.8##Sophie laughs.
+2_Broke_Girls-S06E15_Sub_02 82.8 88.0##Max looks at Caroline.
+2_Broke_Girls-S06E15_Sub_02 103.9 112.8##Max puts two cups of coffee on the table.
+2_Broke_Girls-S06E15_Sub_02 112.8 116.6##Caroline talks to Max through the window.
+2_Broke_Girls-S06E15_Sub_02 116.6 117.9##Max suddenly turnsaround.
+2_Broke_Girls-S06E15_Sub_02 119.3 120.7##Caroline walks to Max.
+2_Broke_Girls-S06E15_Sub_02 120.7 125.7##Max smiles.
+2_Broke_Girls-S06E15_Sub_02 125.7 127.6##Caroline is surprised.
+2_Broke_Girls-S06E15_Sub_02 127.6 140.4##Max opens her mouth wide.
+2_Broke_Girls-S06E15_Sub_02 140.4 145.6##Earl opens the door.
+2_Broke_Girls-S06E15_Sub_02 145.6 150.0##Earl talks hieself.
+2_Broke_Girls-S06E15_Sub_02 150.0 150.7##Max and Caroline are surprised.
+2_Broke_Girls-S06E15_Sub_02 154.8 156.0##Han opens the door and enters the bar.
+2_Broke_Girls-S06E15_Sub_02 156.0 159.4##Han talks to Earl seriously.
+2_Broke_Girls-S06E15_Sub_02 159.4 174.8##Earl turns around and walks away.
+2_Broke_Girls-S06E15_Sub_02 159.4 174.8##Han talks to Caroline and Max.
+2_Broke_Girls-S06E15_Sub_02 179.0 182.4##Max talks to Caroline.
+2_Broke_Girls-S06E15_Sub_02 182.4 184.1##A woman opens the door.
+2_Broke_Girls-S06E15_Sub_02 182.4 184.1##A woman enters the bar.
+2_Broke_Girls-S06E15_Sub_02 184.1 185.0##Two women are surprised and happy.
+2_Broke_Girls-S06E15_Sub_02 185.0 186.8##Max and Caroline are surprised.
+2_Broke_Girls-S06E15_Sub_02 186.8 188.4##The two women hug each other.
+2_Broke_Girls-S06E15_Sub_02 189.3 200.0##Two women are talking and smiling.
+2_Broke_Girls-S06E15_Sub_02 200.0 204.2##The two women sit down.
+2_Broke_Girls-S06E15_Sub_02 204.2 209.0##Max is talking to Caroline.
+2_Broke_Girls-S06E15_Sub_02 218.0 222.0##Max talks to four women.
+2_Broke_Girls-S06E15_Sub_02 224.7 231.9##A man open the door and enters the bar.
+2_Broke_Girls-S06E15_Sub_02 231.9 234.4##Caroline smiles sweetly.
+2_Broke_Girls-S06E15_Sub_02 234.4 236.8##The man is talking to Caroline.
+2_Broke_Girls-S06E15_Sub_02 236.8 245.9##Max cuts in.
+2_Broke_Girls-S06E15_Sub_02 236.8 245.9##Caroline turns around.
+2_Broke_Girls-S06E15_Sub_02 245.9 253.1##Max points to Caroline and the man.
+2_Broke_Girls-S06E15_Sub_02 253.1 256.2##The man and Caroline both smiles.
+2_Broke_Girls-S06E15_Sub_02 256.2 258.5##Caroline talks to Max.
+2_Broke_Girls-S06E15_Sub_02 258.5 259.5##Caroline takes her bag.
+2_Broke_Girls-S06E15_Sub_02 259.5 262.4##The man opens the door.
+2_Broke_Girls-S06E15_Sub_02 259.5 262.4##Caroline leaves the restaurant quickly.
+2_Broke_Girls-S06E15_Sub_02 262.4 264.3##The man leaves the restaurant,following Caroline.
+2_Broke_Girls-S06E15_Sub_02 264.3 266.9##Max talks herself.
+2_Broke_Girls-S06E15_Sub_02 266.9 277.5##Many women enter the restaurant and hug each other.
+2_Broke_Girls-S06E15_Sub_02 277.5 288.0##Max give a list to women.
+2_Broke_Girls-S06E15_Sub_02 289.3 293.3##Caroline and the man goes to the cinema.
+2_Broke_Girls-S06E15_Sub_02 293.3 296.5##Caroline and the man sits down.
+2_Broke_Girls-S06E15_Sub_02 296.5 303.3##Caroline and the man talk with each other.

@@ -1,0 +1,43 @@
+2_Broke_Girls-S06E15_Sub_04 0.0 0.9##The woman smiles.
+2_Broke_Girls-S06E15_Sub_04 0.9 4.1##Max is talking with the woman.
+2_Broke_Girls-S06E15_Sub_04 0.9 4.1##Max is pouring out the wine.
+2_Broke_Girls-S06E15_Sub_04 4.1 5.7##The woman turns around.
+2_Broke_Girls-S06E15_Sub_04 4.1 5.7##Han opens the door.
+2_Broke_Girls-S06E15_Sub_04 5.7 10.4##Han is talking to Max seriously.
+2_Broke_Girls-S06E15_Sub_04 10.4 13.3##Max gives a plate to Han.
+2_Broke_Girls-S06E15_Sub_04 13.3 25.1##Earl walks towards Max and Han .
+2_Broke_Girls-S06E15_Sub_04 25.1 30.5##Max looks at Han.
+2_Broke_Girls-S06E15_Sub_04 30.5 34.3##Caroline walks to the seat.
+2_Broke_Girls-S06E15_Sub_04 34.3 35.4##Caroline seats down.
+2_Broke_Girls-S06E15_Sub_04 35.4 39.1##The man talks to Sophie.
+2_Broke_Girls-S06E15_Sub_04 39.1 43.0##Caroline smiles.
+2_Broke_Girls-S06E15_Sub_04 89.9 94.5##The man holds Caroline's hand.
+2_Broke_Girls-S06E15_Sub_04 94.5 115.6##The man kisses Caroline.
+2_Broke_Girls-S06E15_Sub_04 115.6 118.5##The man touches Caroline's face,
+2_Broke_Girls-S06E15_Sub_04 118.5 120.0##Caroline touches the man's hand.
+2_Broke_Girls-S06E15_Sub_04 124.9 125.7##The man suddenly stands up.
+2_Broke_Girls-S06E15_Sub_04 124.9 125.7##Caroline stands up.
+2_Broke_Girls-S06E15_Sub_04 125.7 131.1##Han is serving drinks.
+2_Broke_Girls-S06E15_Sub_04 131.1 132.5##Max is controling the computer.
+2_Broke_Girls-S06E15_Sub_04 132.5 138.5##Max is talking with the woman.
+2_Broke_Girls-S06E15_Sub_04 138.5 144.2##The man opens the door.
+2_Broke_Girls-S06E15_Sub_04 138.5 144.2##Caroline follows the man and enters the restaurant.
+2_Broke_Girls-S06E15_Sub_04 144.2 174.2##Caroline talks with the man.
+2_Broke_Girls-S06E15_Sub_04 174.2 190.9##Max is knocking the cup.
+2_Broke_Girls-S06E15_Sub_04 190.9 200.2##Max points to the woman.
+2_Broke_Girls-S06E15_Sub_04 200.2 219.6##Caroline walks to Max.
+2_Broke_Girls-S06E15_Sub_04 200.2 219.6##Caroline talks to Max.
+2_Broke_Girls-S06E15_Sub_04 219.6 239.4##Han and Earl are sitting and talking.
+2_Broke_Girls-S06E15_Sub_04 239.4 250.7##Max and Caroline look at Han and Earl.
+2_Broke_Girls-S06E15_Sub_04 250.7 253.0##A woman open the door.
+2_Broke_Girls-S06E15_Sub_04 253.0 255.2##The woman points to the door.
+2_Broke_Girls-S06E15_Sub_04 255.2 260.4##The man walks to the door.
+2_Broke_Girls-S06E15_Sub_04 264.7 266.8##Caroline turns her head and looks at Max.
+2_Broke_Girls-S06E15_Sub_04 266.8 273.7##Max and Caroline smile.
+2_Broke_Girls-S06E15_Sub_04 273.7 279.3##Caroline is talking with Max.
+2_Broke_Girls-S06E15_Sub_04 0.0 5.3##The woman turns around and walks away.
+2_Broke_Girls-S06E15_Sub_04 5.3 84.0##Caroline smooth her hair.
+2_Broke_Girls-S06E15_Sub_04 138.1 141.4##A woman opens her mouth wide.
+2_Broke_Girls-S06E15_Sub_04 141.4 146.1##Caroline talks herself.
+2_Broke_Girls-S06E15_Sub_04 153.0 186.2##Caroline is looking at the man with a smile on her face.
+2_Broke_Girls-S06E15_Sub_04 186.2 241.8##Han is nodding his head.

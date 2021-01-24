@@ -1,0 +1,38 @@
+2_Broke_Girls-S06E03_Sub_01 0.0 9.0##Max and Caroline clean the desk.
+2_Broke_Girls-S06E03_Sub_01 0.0 9.0##Caroline talks to Max.
+2_Broke_Girls-S06E03_Sub_01 9.0 30.4##Han enters the restaurant.
+2_Broke_Girls-S06E03_Sub_01 30.4 36.1##Han talks to Max and Caroline.
+2_Broke_Girls-S06E03_Sub_01 36.1 43.5##Han put down the stool in his hand.
+2_Broke_Girls-S06E03_Sub_01 55.2 67.5##Han leaves the restaurant.
+2_Broke_Girls-S06E03_Sub_01 67.5 76.5##Earl enters the restaurant.
+2_Broke_Girls-S06E03_Sub_01 76.5 80.1##Earl notices the stool Han left their.
+2_Broke_Girls-S06E03_Sub_01 76.5 80.1##Caroline talks to Earl.
+2_Broke_Girls-S06E03_Sub_01 80.1 86.3##Earl carrys the stool out.
+2_Broke_Girls-S06E03_Sub_01 80.1 86.3##Max talks to Caroline.
+2_Broke_Girls-S06E03_Sub_01 86.3 109.8##Caroline enters the living room.
+2_Broke_Girls-S06E03_Sub_01 86.3 109.8## She talks to Peach.
+2_Broke_Girls-S06E03_Sub_01 136.0 164.3##Peach walks to the sofa.
+2_Broke_Girls-S06E03_Sub_01 164.3 172.0##She sits at the sofa.
+2_Broke_Girls-S06E03_Sub_01 172.0 178.7##Caroline implores Peach eagerly.
+2_Broke_Girls-S06E03_Sub_01 178.7 188.1##There is a nock at the door.
+2_Broke_Girls-S06E03_Sub_01 178.7 188.1##Caroline opens the door.
+2_Broke_Girls-S06E03_Sub_01 188.1 193.9##Sophie enters the door, carrying a baby carrige.
+2_Broke_Girls-S06E03_Sub_01 193.9 201.3##Caroline wants to help her.
+2_Broke_Girls-S06E03_Sub_01 193.9 201.3##Sophie yells to Caroline.
+2_Broke_Girls-S06E03_Sub_01 201.3 207.6##Sophie talks to Caroline and Peach.
+2_Broke_Girls-S06E03_Sub_01 207.6 234.4##Sophie leaves the living room, leaving some words at the same time.
+2_Broke_Girls-S06E03_Sub_01 234.4 250.0##Oleg enters the living room.
+2_Broke_Girls-S06E03_Sub_01 234.4 250.0##He notices the baby carrige.
+2_Broke_Girls-S06E03_Sub_01 250.0 271.4##Oleg speaks to the two girls.
+2_Broke_Girls-S06E03_Sub_01 250.0 271.4## Peach talks.
+2_Broke_Girls-S06E03_Sub_01 250.0 271.4## Caroline answers Peach.
+2_Broke_Girls-S06E03_Sub_01 271.4 275.0##Oleg walks to Peach.
+2_Broke_Girls-S06E03_Sub_01 271.4 275.0## He takes the phone in her hand.
+2_Broke_Girls-S06E03_Sub_01 275.0 282.2##He reads the word on the phone.
+2_Broke_Girls-S06E03_Sub_01 282.2 288.1##Peach asks for the phone.
+2_Broke_Girls-S06E03_Sub_01 288.1 290.6##Peach stand up astonishedly.
+2_Broke_Girls-S06E03_Sub_01 290.6 301.7##The two girls complain embarrassedly.
+2_Broke_Girls-S06E03_Sub_01 290.6 301.7## Peach shouts to Oleg.
+2_Broke_Girls-S06E03_Sub_01 301.7 308.5##Peach recevies the new massage happily.
+2_Broke_Girls-S06E03_Sub_01 301.7 308.5## She sits down.
+2_Broke_Girls-S06E03_Sub_01 301.7 308.5## Oleg speaks to Peach.

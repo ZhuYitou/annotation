@@ -1,0 +1,94 @@
+2_Broke_Girls-S06E18_Sub_04 0.0 4.5##Sophie talks to  Han.
+2_Broke_Girls-S06E18_Sub_04 4.5 9.6##Oleg talks to Han.
+2_Broke_Girls-S06E18_Sub_04 9.6 15.9##Oleg carries the box.
+2_Broke_Girls-S06E18_Sub_04 9.6 15.9##Han talks to Oleg.
+2_Broke_Girls-S06E18_Sub_04 9.6 15.9##Sophie turns to Han.
+2_Broke_Girls-S06E18_Sub_04 15.9 19.4##Caroline talks to Max.
+2_Broke_Girls-S06E18_Sub_04 19.4 23.1##Caroline talks to Max.
+2_Broke_Girls-S06E18_Sub_04 19.4 23.1##Max smiles.
+2_Broke_Girls-S06E18_Sub_04 23.1 27.3##Han talks.
+2_Broke_Girls-S06E18_Sub_04 23.1 27.3##A person enter the restaurant.
+2_Broke_Girls-S06E18_Sub_04 23.1 27.3##Caroline and Max turn to the man.
+2_Broke_Girls-S06E18_Sub_04 23.1 27.3##Caroline looks at Max.
+2_Broke_Girls-S06E18_Sub_04 23.1 27.3##Caroline is astonished.
+2_Broke_Girls-S06E18_Sub_04 27.3 30.7##Han talks to Carolint and Max.
+2_Broke_Girls-S06E18_Sub_04 30.7 34.4##Max talks to Caroline.
+2_Broke_Girls-S06E18_Sub_04 30.7 34.4##Max carries a menu to protect her from being observed by the man.
+2_Broke_Girls-S06E18_Sub_04 34.4 41.0##Max puts down the menu.
+2_Broke_Girls-S06E18_Sub_04 34.4 41.0##Caroline talks to Max.
+2_Broke_Girls-S06E18_Sub_04 41.0 46.9##Max carries a cup.
+2_Broke_Girls-S06E18_Sub_04 41.0 46.9##Max walks away.
+2_Broke_Girls-S06E18_Sub_04 46.9 53.4##Han sits in front of the Caroline.
+2_Broke_Girls-S06E18_Sub_04 46.9 53.4##Han talks to Caroline.
+2_Broke_Girls-S06E18_Sub_04 53.4 57.4##Caroline talks to Han.
+2_Broke_Girls-S06E18_Sub_04 53.4 57.4##Han spreads out his hands.
+2_Broke_Girls-S06E18_Sub_04 53.4 57.4##Han talks to Caroline.
+2_Broke_Girls-S06E18_Sub_04 53.4 57.4##Caroline is in shock.
+2_Broke_Girls-S06E18_Sub_04 57.4 63.0##Han talks to Caroline fiercely.
+2_Broke_Girls-S06E18_Sub_04 57.4 63.0##Caroline is more than astonished.
+2_Broke_Girls-S06E18_Sub_04 63.0 72.8##Caroline talks to Han anxiously.
+2_Broke_Girls-S06E18_Sub_04 72.8 76.1##Caroline talks to Han.
+2_Broke_Girls-S06E18_Sub_04 76.1 80.6##Han talks to Caroline excitedly.
+2_Broke_Girls-S06E18_Sub_04 76.1 80.6##Oleg talks to Han.
+2_Broke_Girls-S06E18_Sub_04 80.6 90.0##Sophie talks to Caroline and Han.
+2_Broke_Girls-S06E18_Sub_04 90.0 94.8##Caroline is unhappy.
+2_Broke_Girls-S06E18_Sub_04 90.0 94.8##Max comes back.
+2_Broke_Girls-S06E18_Sub_04 90.0 94.8##Han stands up.
+2_Broke_Girls-S06E18_Sub_04 90.0 94.8##Max talks.
+2_Broke_Girls-S06E18_Sub_04 94.8 98.2##Han talks to Max.
+2_Broke_Girls-S06E18_Sub_04 98.2 112.2##Han walks back to his seat.
+2_Broke_Girls-S06E18_Sub_04 98.2 112.2##Max sits down.
+2_Broke_Girls-S06E18_Sub_04 112.2 115.0##Max talks to Caroline.
+2_Broke_Girls-S06E18_Sub_04 115.0 117.5##Caroline talks to Max.
+2_Broke_Girls-S06E18_Sub_04 115.0 117.5##Max smiles.
+2_Broke_Girls-S06E18_Sub_04 117.5 123.1##Max talks to Caroline happily.
+2_Broke_Girls-S06E18_Sub_04 123.1 125.1##Caroline talks to Max.
+2_Broke_Girls-S06E18_Sub_04 125.1 134.8##Max talks to Caroline.
+2_Broke_Girls-S06E18_Sub_04 125.1 134.8##Max looks around.
+2_Broke_Girls-S06E18_Sub_04 134.8 142.5##Max talks.
+2_Broke_Girls-S06E18_Sub_04 134.8 142.5##Caroline smiles and talks to Max.
+2_Broke_Girls-S06E18_Sub_04 142.5 150.8##Max talks to Caroline.
+2_Broke_Girls-S06E18_Sub_04 150.8 158.8##Caroline smiles.
+2_Broke_Girls-S06E18_Sub_04 150.8 158.8##Han makes a call.
+2_Broke_Girls-S06E18_Sub_04 158.8 167.8##Caroline looks around.
+2_Broke_Girls-S06E18_Sub_04 158.8 167.8##Caroline talks to Max.
+2_Broke_Girls-S06E18_Sub_04 167.8 175.2##Han makes a call fiercely.
+2_Broke_Girls-S06E18_Sub_04 167.8 175.2##Han hangs up the call.
+2_Broke_Girls-S06E18_Sub_04 175.2 178.5##Max talks to Caroline.
+2_Broke_Girls-S06E18_Sub_04 178.5 183.2##Caroline is excited.
+2_Broke_Girls-S06E18_Sub_04 178.5 183.2##Han make the call loudly.
+2_Broke_Girls-S06E18_Sub_04 178.5 183.2##Caroline is more than glad.
+2_Broke_Girls-S06E18_Sub_04 183.2 186.9##Max is excited.
+2_Broke_Girls-S06E18_Sub_04 183.2 186.9##A person enters the restaurant.
+2_Broke_Girls-S06E18_Sub_04 186.9 194.0##Earl talks to the person.
+2_Broke_Girls-S06E18_Sub_04 186.9 194.0##Max is more than glad.
+2_Broke_Girls-S06E18_Sub_04 194.0 198.3##Caroline is shocked.
+2_Broke_Girls-S06E18_Sub_04 194.0 198.3##Max walks towards the person.
+2_Broke_Girls-S06E18_Sub_04 194.0 198.3##Han makes a phone call. 
+2_Broke_Girls-S06E18_Sub_04 198.3 206.6##Max talks to the person.
+2_Broke_Girls-S06E18_Sub_04 206.6 219.7##Sophie,Oleg,Han and Caroline is astonished.
+2_Broke_Girls-S06E18_Sub_04 219.7 225.2##Han looks at Oleg.
+2_Broke_Girls-S06E18_Sub_04 219.7 225.2##Oleg talks.
+2_Broke_Girls-S06E18_Sub_04 219.7 225.2##Caroline stands up.
+2_Broke_Girls-S06E18_Sub_04 225.2 231.2##Caroline walks to the man.
+2_Broke_Girls-S06E18_Sub_04 225.2 231.2##Caroline smiles and talks to the man.
+2_Broke_Girls-S06E18_Sub_04 225.2 231.2##Max smiles.
+2_Broke_Girls-S06E18_Sub_04 231.2 236.0##Caroline talks.
+2_Broke_Girls-S06E18_Sub_04 236.0 238.3##Max talks and gives the man a paper.
+2_Broke_Girls-S06E18_Sub_04 238.3 245.3##Max talks.
+2_Broke_Girls-S06E18_Sub_04 245.3 249.3##Caroline talks.
+2_Broke_Girls-S06E18_Sub_04 249.3 255.1##The man talks with Max and Caroline.
+2_Broke_Girls-S06E18_Sub_04 249.3 255.1##Max talks.
+2_Broke_Girls-S06E18_Sub_04 255.1 263.8##Han makes a call.
+2_Broke_Girls-S06E18_Sub_04 263.8 270.7##Oleg looks at Han.
+2_Broke_Girls-S06E18_Sub_04 263.8 270.7##Max walks to Han.
+2_Broke_Girls-S06E18_Sub_04 263.8 270.7##Max talks.
+2_Broke_Girls-S06E18_Sub_04 270.7 276.9##Han stands up.
+2_Broke_Girls-S06E18_Sub_04 270.7 276.9##Han spreads out his arms.
+2_Broke_Girls-S06E18_Sub_04 270.7 276.9##Max touchs Han's head.
+2_Broke_Girls-S06E18_Sub_04 276.9 282.9##Han talks to Max.
+2_Broke_Girls-S06E18_Sub_04 276.9 282.9##Sophie and Oleg stand up and leave.
+2_Broke_Girls-S06E18_Sub_04 282.9 289.7##Caroline,Max,Han,Earl,Sophie and Oleg leave the restaurant.
+2_Broke_Girls-S06E18_Sub_04 289.7 298.4##Max enters restaurant.
+2_Broke_Girls-S06E18_Sub_04 289.7 298.4##Max carries the box.
+2_Broke_Girls-S06E18_Sub_04 298.4 300.6##Max leaves restaurant.

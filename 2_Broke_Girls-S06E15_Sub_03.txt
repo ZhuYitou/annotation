@@ -1,0 +1,49 @@
+2_Broke_Girls-S06E15_Sub_03 0.0 0.5##Caroline raises her hand.
+2_Broke_Girls-S06E15_Sub_03 0.5 1.6##Caroline looks at the man.
+2_Broke_Girls-S06E15_Sub_03 1.6 3.3##The man talks to Caroline.
+2_Broke_Girls-S06E15_Sub_03 1.6 3.3##Caroline smiles.
+2_Broke_Girls-S06E15_Sub_03 3.3 18.5##The man walks away.
+2_Broke_Girls-S06E15_Sub_03 18.5 25.5##Caroline is playing with phone.
+2_Broke_Girls-S06E15_Sub_03 25.5 31.7##Caroline is talking with the man.
+2_Broke_Girls-S06E15_Sub_03 31.7 34.0##Sophie and Oleg are sitting in the cinema.
+2_Broke_Girls-S06E15_Sub_03 34.0 35.6##Sophie and Oleg are looking at Caroline and the man.
+2_Broke_Girls-S06E15_Sub_03 35.6 36.5##Caroline turns around.
+2_Broke_Girls-S06E15_Sub_03 36.5 40.0##Sophie is talking with Caroline.
+2_Broke_Girls-S06E15_Sub_03 40.0 53.4##Oleg is talking.
+2_Broke_Girls-S06E15_Sub_03 53.4 56.8##Oleg puts one hand near his mouth.
+2_Broke_Girls-S06E15_Sub_03 87.7 90.3##Oleg is eating a chicken drumstick.
+2_Broke_Girls-S06E15_Sub_03 90.3 92.8##Oleg gives the chicken drumstick to Sophie.
+2_Broke_Girls-S06E15_Sub_03 92.8 94.7##Sophie takes the drumstick and eats it.
+2_Broke_Girls-S06E15_Sub_03 94.7 96.9##The couple sitting beside Sophie are astonished.
+2_Broke_Girls-S06E15_Sub_03 96.9 103.7##Caroline is talking with the man.
+2_Broke_Girls-S06E15_Sub_03 103.7 119.3##Caroline turns around again.
+2_Broke_Girls-S06E15_Sub_03 119.3 121.0##Oleg is enjoying corn.
+2_Broke_Girls-S06E15_Sub_03 121.0 125.1##Caroline is talking to Sophie.
+2_Broke_Girls-S06E15_Sub_03 125.1 147.6##The man turns on his flashlight.
+2_Broke_Girls-S06E15_Sub_03 147.6 151.2##The man is talking to Sophie and Oleg.
+2_Broke_Girls-S06E15_Sub_03 151.2 158.9##Oleg stands up.
+2_Broke_Girls-S06E15_Sub_03 158.9 160.8##Oleg puts his phone into his pocket.
+2_Broke_Girls-S06E15_Sub_03 160.8 163.3##Sophie stands up.
+2_Broke_Girls-S06E15_Sub_03 163.3 175.8##Oleg and Sophie are moving the red baby car.
+2_Broke_Girls-S06E15_Sub_03 175.8 183.6##Max takes away the plate.
+2_Broke_Girls-S06E15_Sub_03 186.9 189.1##The girls drink.
+2_Broke_Girls-S06E15_Sub_03 189.1 192.3##A woman stands up.
+2_Broke_Girls-S06E15_Sub_03 192.3 193.2##The woman falls.
+2_Broke_Girls-S06E15_Sub_03 193.2 194.7##Others are astonished.
+2_Broke_Girls-S06E15_Sub_03 194.7 199.9##Max talks herself.
+2_Broke_Girls-S06E15_Sub_03 199.9 202.7##Max walks to the woman.
+2_Broke_Girls-S06E15_Sub_03 202.7 204.4##Max slaps the woman on her face.
+2_Broke_Girls-S06E15_Sub_03 204.4 208.8##The woman suddenly wake.
+2_Broke_Girls-S06E15_Sub_03 208.8 214.8##The woman sits on her chair .
+2_Broke_Girls-S06E15_Sub_03 218.3 225.0##Earl opens the door.
+2_Broke_Girls-S06E15_Sub_03 225.0 228.6##Earl speaks to Max.
+2_Broke_Girls-S06E15_Sub_03 225.0 228.6##Earl puts a blue box on the desk.
+2_Broke_Girls-S06E15_Sub_03 228.6 240.0##Max gives a plate to Earl.
+2_Broke_Girls-S06E15_Sub_03 240.0 246.3##Oleg opens the door.
+2_Broke_Girls-S06E15_Sub_03 246.3 249.0##Sophie walks into the restaurant.
+2_Broke_Girls-S06E15_Sub_03 249.0 252.8##Oleg talks.
+2_Broke_Girls-S06E15_Sub_03 255.5 260.1##Sophie talks.
+2_Broke_Girls-S06E15_Sub_03 271.9 273.5##Max drinks.
+2_Broke_Girls-S06E15_Sub_03 273.5 281.9##Max takes out a bottle of wine.
+2_Broke_Girls-S06E15_Sub_03 281.9 285.8##A woman walks to Max and talks to her.
+2_Broke_Girls-S06E15_Sub_03 301.2 313.0##The woman takes out her phone.

@@ -1,0 +1,67 @@
+2_Broke_Girls-S06E06_Sub_03 0.0 3.5##Oleg and Han come in through the door.
+2_Broke_Girls-S06E06_Sub_03 0.0 3.5##Oleg is holding a box.
+2_Broke_Girls-S06E06_Sub_03 0.0 3.5##Han is surprised to see the cake on the table.
+2_Broke_Girls-S06E06_Sub_03 3.5 8.3##Han looks at the cake and talks.
+2_Broke_Girls-S06E06_Sub_03 8.3 13.5##Oleg talks to Han.
+2_Broke_Girls-S06E06_Sub_03 8.3 13.5##Han walks to the cake on the table. 
+2_Broke_Girls-S06E06_Sub_03 13.5 17.5##Oleg puts the box down and closes the door.
+2_Broke_Girls-S06E06_Sub_03 13.5 17.5##Han tries to pick up the cake on the table.
+2_Broke_Girls-S06E06_Sub_03 13.5 17.5##Oleg walks to the Han.
+2_Broke_Girls-S06E06_Sub_03 17.5 25.2##Oleg talks to Han.
+2_Broke_Girls-S06E06_Sub_03 17.5 25.2##Han pushes the cake off the table with too much force.
+2_Broke_Girls-S06E06_Sub_03 25.2 30.1##Han and Oleg are surprised.
+2_Broke_Girls-S06E06_Sub_03 25.2 30.1##Han and Oleg walk up to the cake.
+2_Broke_Girls-S06E06_Sub_03 30.1 35.7##Han is very sad.
+2_Broke_Girls-S06E06_Sub_03 30.1 35.7##Han and Oleg don't know what to do.
+2_Broke_Girls-S06E06_Sub_03 35.7 41.7##Han talks sadly with his eyes closed.
+2_Broke_Girls-S06E06_Sub_03 41.7 49.0##Han kneels on the ground with his mouth wide open.
+2_Broke_Girls-S06E06_Sub_03 49.0 57.2##Oleg throws something on the cake.
+2_Broke_Girls-S06E06_Sub_03 57.2 65.0##Han is fiddling with the cake.
+2_Broke_Girls-S06E06_Sub_03 65.0 70.5##Han picks up a piece of cake and speaks.
+2_Broke_Girls-S06E06_Sub_03 65.0 70.5##Han throws the piece of the cake .
+2_Broke_Girls-S06E06_Sub_03 70.5 80.3##Oleg stands up and talks to Han.
+2_Broke_Girls-S06E06_Sub_03 70.5 80.3##Han walks over on his knees to Oleg.
+2_Broke_Girls-S06E06_Sub_03 80.3 86.5##Han hugs Oleg's thigh and cries.
+2_Broke_Girls-S06E06_Sub_03 80.3 86.5##Oleg leans over and hugs Han. 
+2_Broke_Girls-S06E06_Sub_03 86.5 91.8##Oleg keeps stroking Han's back and comforting Han.
+2_Broke_Girls-S06E06_Sub_03 91.8 104.0##Scene conversion.
+2_Broke_Girls-S06E06_Sub_03 104.0 108.0##Caroline and Max enter the door.
+2_Broke_Girls-S06E06_Sub_03 104.0 108.0##Caroline is talking to Max.
+2_Broke_Girls-S06E06_Sub_03 108.0 117.1##Max and Caroline talk with each other.
+2_Broke_Girls-S06E06_Sub_03 108.0 117.1##Caroline finds the cake on the table missing.
+2_Broke_Girls-S06E06_Sub_03 117.1 121.0##Caroline is confused.
+2_Broke_Girls-S06E06_Sub_03 121.0 122.5##Caroline and Max open their mouths wide and suddenly realizes.
+2_Broke_Girls-S06E06_Sub_03 122.5 126.1##Caroline and Max go to the kitchen.
+2_Broke_Girls-S06E06_Sub_03 122.5 126.1##Max and Caroline find Oleg.
+2_Broke_Girls-S06E06_Sub_03 126.1 132.0##Oleg says to Caroline and Max with a shovel.
+2_Broke_Girls-S06E06_Sub_03 132.0 144.0##Max and Caroline say a few words to Oleg and leave.
+2_Broke_Girls-S06E06_Sub_03 132.0 144.0##Caroline and Max enter the door.
+2_Broke_Girls-S06E06_Sub_03 144.0 150.5##Caroline and Max walk to Earl.
+2_Broke_Girls-S06E06_Sub_03 150.5 155.8##Earl says to Caroline and Max with money in his hand.
+2_Broke_Girls-S06E06_Sub_03 155.8 158.4## Han is coming from behind.
+2_Broke_Girls-S06E06_Sub_03 158.4 166.2##Han and Caroline talk with each other.
+2_Broke_Girls-S06E06_Sub_03 166.2 177.8##Max talks to Han.
+2_Broke_Girls-S06E06_Sub_03 166.2 177.8##Han opens his mouth wide.
+2_Broke_Girls-S06E06_Sub_03 177.8 183.9##Han talks to Caroline and Max.
+2_Broke_Girls-S06E06_Sub_03 177.8 183.9##Han takes out his phone.
+2_Broke_Girls-S06E06_Sub_03 183.9 198.6##Max ,Caroline and Han is talking.
+2_Broke_Girls-S06E06_Sub_03 183.9 198.6##Oleg appears the window.
+2_Broke_Girls-S06E06_Sub_03 198.6 207.3##Han and Oleg talk with each other.
+2_Broke_Girls-S06E06_Sub_03 198.6 207.3##Max talks to Oleg.
+2_Broke_Girls-S06E06_Sub_03 207.3 212.6##Oleg and Han both slip away.
+2_Broke_Girls-S06E06_Sub_03 207.3 212.6##Caroline talks to Max.
+2_Broke_Girls-S06E06_Sub_03 212.6 224.6##Caroline buries her head in Max's chest.
+2_Broke_Girls-S06E06_Sub_03 224.6 229.8##Sophie comes in with a stroller.
+2_Broke_Girls-S06E06_Sub_03 229.8 242.8##Sophie talks to herself.
+2_Broke_Girls-S06E06_Sub_03 229.8 242.8##Sophie pushes the stroller down the steps.
+2_Broke_Girls-S06E06_Sub_03 242.8 261.9##Caroline and Max talk with each other.
+2_Broke_Girls-S06E06_Sub_03 242.8 261.9##Max takes out her phone.
+2_Broke_Girls-S06E06_Sub_03 261.9 272.8##Sophie eats the cake on the table.
+2_Broke_Girls-S06E06_Sub_03 272.8 277.6##Caroline and Max are very surprised and hurry towards Sophie.
+2_Broke_Girls-S06E06_Sub_03 277.6 287.8##Oleg pokes his head out of the window and says to Max and Caroline.
+2_Broke_Girls-S06E06_Sub_03 287.8 296.8##Han comes out and talks to Oleg.
+2_Broke_Girls-S06E06_Sub_03 296.8 303.5##Oleg talks to Han.
+2_Broke_Girls-S06E06_Sub_03 296.8 303.5##Han talks to Caroline and Max.
+2_Broke_Girls-S06E06_Sub_03 303.5 312.4##Max points her finger at Han.
+2_Broke_Girls-S06E06_Sub_03 312.4 317.2##Han walks away.
+2_Broke_Girls-S06E06_Sub_03 317.2 325.7##Sophie looks at the kid in the stroller and laughs.

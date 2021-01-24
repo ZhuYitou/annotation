@@ -1,0 +1,54 @@
+2_Broke_Girls-S06E07_Sub_02 0.0 7.5##Caroline has a doll in her hand.
+2_Broke_Girls-S06E07_Sub_02 0.0 7.5##Sophie walks to Caroline and Max.
+2_Broke_Girls-S06E07_Sub_02 7.5 17.3##Caroline talks to Sophie.
+2_Broke_Girls-S06E07_Sub_02 7.5 17.3##Sophie takes the doll from Caroline.
+2_Broke_Girls-S06E07_Sub_02 17.3 25.6##Sophie puts the doll on her face and points to the doll.
+2_Broke_Girls-S06E07_Sub_02 17.3 25.6##Sophie talks to Max and Caroline.
+2_Broke_Girls-S06E07_Sub_02 25.6 45.5##Sophie takes the doll and walks to the stroller.
+2_Broke_Girls-S06E07_Sub_02 25.6 45.5##Sophie puts the doll next to the baby. 
+2_Broke_Girls-S06E07_Sub_02 45.5 52.8##Earl looks at the baby happily.
+2_Broke_Girls-S06E07_Sub_02 45.5 52.8##Sophie leaves with the stroller.
+2_Broke_Girls-S06E07_Sub_02 52.8 61.2##Sophie turns her head and talks to Earl as she walks.
+2_Broke_Girls-S06E07_Sub_02 61.2 66.8##Sophie pulls the stroller out of the door.
+2_Broke_Girls-S06E07_Sub_02 61.2 66.8##Sophie talks to a woman who comes in the door.
+2_Broke_Girls-S06E07_Sub_02 66.8 73.3##Han comes out and goes to the chair.
+2_Broke_Girls-S06E07_Sub_02 73.3 85.0##Caroline finds that Han has a lot of pimples on his body.
+2_Broke_Girls-S06E07_Sub_02 85.0 96.3##Caroline talks to Han.
+2_Broke_Girls-S06E07_Sub_02 85.0 96.3##Han walks to the counter.
+2_Broke_Girls-S06E07_Sub_02 96.3 107.9##A customer sees Han and leaves at once.
+2_Broke_Girls-S06E07_Sub_02 96.3 107.9##Han talks to Max and Caroline. 
+2_Broke_Girls-S06E07_Sub_02 107.9 116.9##Han goes out of the door.
+2_Broke_Girls-S06E07_Sub_02 107.9 116.9##Max and Caroline talk with each other.
+2_Broke_Girls-S06E07_Sub_02 116.9 119.9##Han falls to the ground immediately after he goes out.
+2_Broke_Girls-S06E07_Sub_02 119.9 124.4##Max and Caroline both look at the door.
+2_Broke_Girls-S06E07_Sub_02 119.9 124.4##Han struggles for a while, but doesn't get up.
+2_Broke_Girls-S06E07_Sub_02 124.4 127.1##Max and Caroline give Han a thumbs-up.
+2_Broke_Girls-S06E07_Sub_02 127.1 133.0##Scene conversion.
+2_Broke_Girls-S06E07_Sub_02 127.1 133.0##Max and Caroline enter the door.
+2_Broke_Girls-S06E07_Sub_02 127.1 133.0##Max vomits what is in her mouth on Caroline's hand.
+2_Broke_Girls-S06E07_Sub_02 133.0 140.2##Caroline throws the thing in the trash can.
+2_Broke_Girls-S06E07_Sub_02 133.0 140.2##Caroline talks to Max.
+2_Broke_Girls-S06E07_Sub_02 140.2 158.8##Caroline and Max talk with each other.
+2_Broke_Girls-S06E07_Sub_02 158.8 164.6##Max goes to a table.
+2_Broke_Girls-S06E07_Sub_02 158.8 164.6##Caroline walks to a woman and talks to the woman.
+2_Broke_Girls-S06E07_Sub_02 164.6 174.5##Max flips through the menu on the table.
+2_Broke_Girls-S06E07_Sub_02 174.5 189.1##A man talks to everyone here.
+2_Broke_Girls-S06E07_Sub_02 174.5 189.1##Caroline laughs.
+2_Broke_Girls-S06E07_Sub_02 189.1 194.6##Everyone here looks at Caroline. 
+2_Broke_Girls-S06E07_Sub_02 194.6 205.2##The woman laughs and Max smiles.
+2_Broke_Girls-S06E07_Sub_02 205.2 222.3##The man goes on to tell everyone.
+2_Broke_Girls-S06E07_Sub_02 205.2 222.3##The man asks everyone a question.
+2_Broke_Girls-S06E07_Sub_02 205.2 222.3##Caroline and the woman raise their hands at the same time.
+2_Broke_Girls-S06E07_Sub_02 222.3 230.4##Max says a word beside them.
+2_Broke_Girls-S06E07_Sub_02 222.3 230.4##Caroline and the woman put down their hands.
+2_Broke_Girls-S06E07_Sub_02 230.4 240.6##Caroline and the woman raise their hands again and put down them at once.
+2_Broke_Girls-S06E07_Sub_02 240.6 252.1##Max takes up a spoon and says.
+2_Broke_Girls-S06E07_Sub_02 252.1 259.5##The man walks up to Caroline and the woman.
+2_Broke_Girls-S06E07_Sub_02 259.5 268.8##Caroline asks the man with her phone.
+2_Broke_Girls-S06E07_Sub_02 259.5 268.8##The woman laughs beside Caroline.
+2_Broke_Girls-S06E07_Sub_02 268.8 277.6##The man goes back.
+2_Broke_Girls-S06E07_Sub_02 277.6 290.1##Scene conversion.
+2_Broke_Girls-S06E07_Sub_02 277.6 290.1##Max is pouring a glass of wine.
+2_Broke_Girls-S06E07_Sub_02 277.6 290.1##Caroline comes over with a menu.
+2_Broke_Girls-S06E07_Sub_02 290.1 302.4##Max takes a sip of wine and says to Caroline.
+2_Broke_Girls-S06E07_Sub_02 302.4 313.8##Max puts on a pair of glasses.

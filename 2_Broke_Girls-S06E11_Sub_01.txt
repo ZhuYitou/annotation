@@ -1,0 +1,63 @@
+2_Broke_Girls-S06E11_Sub_01 0.0 3.0##Max and Caroline are standing beside the counter.
+2_Broke_Girls-S06E11_Sub_01 0.0 3.0##Max and Caroline are smiling.
+2_Broke_Girls-S06E11_Sub_01 3.0 8.7##Han and Earl open the door.
+2_Broke_Girls-S06E11_Sub_01 3.0 8.7##Han and Earl enter the restaurant through the door.
+2_Broke_Girls-S06E11_Sub_01 3.0 8.7##Han and Earl are talking.
+2_Broke_Girls-S06E11_Sub_01 8.7 13.3##Han speaks exaggerated.
+2_Broke_Girls-S06E11_Sub_01 8.7 13.3##Han waves his hands around.
+2_Broke_Girls-S06E11_Sub_01 13.3 17.0##Oleg is at the door of the bar.
+2_Broke_Girls-S06E11_Sub_01 13.3 17.0##Oleg waves his hands against the rain.
+2_Broke_Girls-S06E11_Sub_01 13.3 17.0##Oleg is yelling.
+2_Broke_Girls-S06E11_Sub_01 17.0 20.8##Max talks.
+2_Broke_Girls-S06E11_Sub_01 20.8 24.3##Max and Caroline are talking in the storeroom.
+2_Broke_Girls-S06E11_Sub_01 24.3 25.8##Han is in the storeroom, too.
+2_Broke_Girls-S06E11_Sub_01 25.8 28.3##Max hands a phone to Caroline.
+2_Broke_Girls-S06E11_Sub_01 28.3 32.8##Max and Caroline are in the bar.
+2_Broke_Girls-S06E11_Sub_01 28.3 32.8##Max is sitting.
+2_Broke_Girls-S06E11_Sub_01 32.8 35.8##Max is cleaning the rubbish with a mop.
+2_Broke_Girls-S06E11_Sub_01 32.8 35.8##Max is using a mop to clean the rubbish.
+2_Broke_Girls-S06E11_Sub_01 32.8 35.8##Caroline lifts up a chair.
+2_Broke_Girls-S06E11_Sub_01 35.8 41.3##Caroline talks in a exaggerated tone.
+2_Broke_Girls-S06E11_Sub_01 41.3 51.0##Caroline lifts up a high stool.
+2_Broke_Girls-S06E11_Sub_01 41.3 51.0##Caroline lifts a high stool up.
+2_Broke_Girls-S06E11_Sub_01 41.3 51.0##A high stool is lifted up by Caroline.
+2_Broke_Girls-S06E11_Sub_01 51.0 63.2##Some water fell on Caroline's head.
+2_Broke_Girls-S06E11_Sub_01 63.2 68.0##Caroline uses a towel to clean her hands.
+2_Broke_Girls-S06E11_Sub_01 68.0 72.3##Max talks in a exaggerated tone.
+2_Broke_Girls-S06E11_Sub_01 72.3 83.3##Han is outside the window.
+2_Broke_Girls-S06E11_Sub_01 72.3 83.3##Han is talking.
+2_Broke_Girls-S06E11_Sub_01 93.1 97.0##Caroline yells.
+2_Broke_Girls-S06E11_Sub_01 93.1 97.0##Caroline shakes.
+2_Broke_Girls-S06E11_Sub_01 97.0 99.3##Max points Caroline with her finger.
+2_Broke_Girls-S06E11_Sub_01 97.0 99.3##Max talks.
+2_Broke_Girls-S06E11_Sub_01 115.0 120.3##MAx is in the bar.
+2_Broke_Girls-S06E11_Sub_01 115.0 120.3##Max is talking.
+2_Broke_Girls-S06E11_Sub_01 115.0 120.3##Max looks at her phone.
+2_Broke_Girls-S06E11_Sub_01 120.3 126.0##Earl looks at his phone.
+2_Broke_Girls-S06E11_Sub_01 120.3 126.0##Earl talks to Max.
+2_Broke_Girls-S06E11_Sub_01 126.0 134.4##Caroline walks in through the door.
+2_Broke_Girls-S06E11_Sub_01 126.0 134.4##Caroline talks.
+2_Broke_Girls-S06E11_Sub_01 134.4 140.8##Max talks to Caroline.
+2_Broke_Girls-S06E11_Sub_01 140.8 147.2##Caroline pours a cup of coffee.
+2_Broke_Girls-S06E11_Sub_01 140.8 147.2##Caroline talks.
+2_Broke_Girls-S06E11_Sub_01 147.2 159.7##Max and Caroline talk with each other.
+2_Broke_Girls-S06E11_Sub_01 159.7 165.5##Caroline smiles to Max.
+2_Broke_Girls-S06E11_Sub_01 165.5 182.4##Max and Caroline talk with each other.
+2_Broke_Girls-S06E11_Sub_01 182.4 187.3##Earl talks, staring at his phone.
+2_Broke_Girls-S06E11_Sub_01 187.3 188.8##Oleg bends down and stick his hend out from the window of kitchen.
+2_Broke_Girls-S06E11_Sub_01 188.8 192.3##Earl points to Oleg.
+2_Broke_Girls-S06E11_Sub_01 192.3 197.9##Sophie comes in, pushing a pram.
+2_Broke_Girls-S06E11_Sub_01 197.9 203.3##Sophie talks in the front of the bar counter.
+2_Broke_Girls-S06E11_Sub_01 203.3 222.4##Max, Caroline, Earl and Sophie are talkig.
+2_Broke_Girls-S06E11_Sub_01 222.4 239.6##Sophie pushes the pram forward.
+2_Broke_Girls-S06E11_Sub_01 222.4 239.6##Sophie sits down in the sofa.
+2_Broke_Girls-S06E11_Sub_01 239.6 247.8##Oleg talks.
+2_Broke_Girls-S06E11_Sub_01 247.8 254.0##Han walks towards them.
+2_Broke_Girls-S06E11_Sub_01 247.8 254.0##Han talks.
+2_Broke_Girls-S06E11_Sub_01 254.0 263.0##Max talks to Han.
+2_Broke_Girls-S06E11_Sub_01 264.9 270.0##Max leaves, followed by Han.
+2_Broke_Girls-S06E11_Sub_01 270.0 276.6##Han comes back, waving a key.
+2_Broke_Girls-S06E11_Sub_01 276.6 278.4##HAn comes back.
+2_Broke_Girls-S06E11_Sub_01 278.4 294.5##Oleg opened the door of kitchen.
+2_Broke_Girls-S06E11_Sub_01 278.4 294.5##Oleg comes out from the kitchen.
+2_Broke_Girls-S06E11_Sub_01 278.4 294.5##Oleg talks.

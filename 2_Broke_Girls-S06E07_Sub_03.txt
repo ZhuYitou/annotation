@@ -1,0 +1,47 @@
+2_Broke_Girls-S06E07_Sub_03 0.0 1.6##Caroline talks to Max.
+2_Broke_Girls-S06E07_Sub_03 1.6 24.5##Max and Caroline talk with each other.
+2_Broke_Girls-S06E07_Sub_03 24.5 32.8##Caroline gives the menu to Max.
+2_Broke_Girls-S06E07_Sub_03 32.8 48.0##Caroline gets off the bench and walks into the counter.
+2_Broke_Girls-S06E07_Sub_03 32.8 48.0##Max comes out of the counter and sits on the bench.
+2_Broke_Girls-S06E07_Sub_03 48.0 70.3##Caroline and Max talk with each other.
+2_Broke_Girls-S06E07_Sub_03 48.0 70.3##Caroline has a glass of wine.
+2_Broke_Girls-S06E07_Sub_03 70.3 76.6##Caroline has an uncomfortable look on her face.
+2_Broke_Girls-S06E07_Sub_03 76.6 80.1##Oleg carries a doll on a plate.
+2_Broke_Girls-S06E07_Sub_03 76.6 80.1##Oleg pokes his head out of the window.
+2_Broke_Girls-S06E07_Sub_03 80.1 89.6##Caroline talks to Oleg and touches the plate.
+2_Broke_Girls-S06E07_Sub_03 89.6 99.7##Oleg talks to Caroline and Max.
+2_Broke_Girls-S06E07_Sub_03 99.7 102.8##Caroline and Max look at each other.
+2_Broke_Girls-S06E07_Sub_03 102.8 114.2##Max takes off her glasses.
+2_Broke_Girls-S06E07_Sub_03 114.2 119.8##Max goes up to the window.
+2_Broke_Girls-S06E07_Sub_03 114.2 119.8##Max picks up the doll on the plate.
+2_Broke_Girls-S06E07_Sub_03 119.8 126.8##Han comes in through the door.
+2_Broke_Girls-S06E07_Sub_03 126.8 136.8##Caroline talks to Han.
+2_Broke_Girls-S06E07_Sub_03 126.8 136.8##Han is scratching his back.
+2_Broke_Girls-S06E07_Sub_03 136.8 146.5##Han is scratching as he talks to Max and Caroline.
+2_Broke_Girls-S06E07_Sub_03 146.5 157.6##Max walks to Han.
+2_Broke_Girls-S06E07_Sub_03 146.5 157.6##Max talks to Han.
+2_Broke_Girls-S06E07_Sub_03 157.6 167.0##Max turns to talk to Caroline.
+2_Broke_Girls-S06E07_Sub_03 157.6 167.0##Max opens her mouth wide and is surprised. 
+2_Broke_Girls-S06E07_Sub_03 167.0 175.0##Max finds that she has a pimple on her face.
+2_Broke_Girls-S06E07_Sub_03 167.0 175.0##Han declares his innocence and turns away.
+2_Broke_Girls-S06E07_Sub_03 175.0 186.0##Scene conversion.
+2_Broke_Girls-S06E07_Sub_03 175.0 186.0##Max sits on the sofa and takes off her shoes.
+2_Broke_Girls-S06E07_Sub_03 186.0 188.3##Max titles her legs on the table and scratches her legs.
+2_Broke_Girls-S06E07_Sub_03 186.0 188.3##Han looks at Max from the window.
+2_Broke_Girls-S06E07_Sub_03 188.3 198.8##Han comes in through the door.
+2_Broke_Girls-S06E07_Sub_03 188.3 198.8##Max opens the tablet.
+2_Broke_Girls-S06E07_Sub_03 198.8 209.9##Han walks to Max and talks to Max.
+2_Broke_Girls-S06E07_Sub_03 209.9 214.3##Han sits next to Max.
+2_Broke_Girls-S06E07_Sub_03 209.9 214.3##Han sees the doll on the table.
+2_Broke_Girls-S06E07_Sub_03 214.3 233.3##Max helps Han scratch his back.
+2_Broke_Girls-S06E07_Sub_03 233.3 242.8##Han helps Max scratch her back.
+2_Broke_Girls-S06E07_Sub_03 242.8 248.5##Max picks up the doll on the table.
+2_Broke_Girls-S06E07_Sub_03 248.5 255.8##Caroline comes out.
+2_Broke_Girls-S06E07_Sub_03 248.5 255.8##Max puts the doll on the table.
+2_Broke_Girls-S06E07_Sub_03 255.8 262.8##Max and Caroline talk with each other.
+2_Broke_Girls-S06E07_Sub_03 262.8 270.0##Caroline picks up the doll on the table.
+2_Broke_Girls-S06E07_Sub_03 270.0 284.8##Han and Max scratch themselves.
+2_Broke_Girls-S06E07_Sub_03 284.8 295.1##Caroline talks to Max.
+2_Broke_Girls-S06E07_Sub_03 284.8 295.1##Max stands up.
+2_Broke_Girls-S06E07_Sub_03 295.1 309.3##Caroline gives the doll to Han.
+2_Broke_Girls-S06E07_Sub_03 309.3 313.9##Han uses the doll to scratch.
